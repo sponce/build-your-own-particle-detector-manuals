@@ -1,5 +1,5 @@
-0 FILE wheel.ldr
-0 Name: wheel.ldr
+0 FILE ExtRightWheel.ldr
+0 Name: ExtRightWheel.ldr
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 
