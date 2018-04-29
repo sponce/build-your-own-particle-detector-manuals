@@ -1,0 +1,70 @@
+1  0      40      -21    -1275     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonAttachGlu4.ldr
+1  0      40      394    -1149     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonAttachGlu4.ldr
+1  0      40     -170    -1094     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonAttachGlu4.ldr
+1  0      40      417     -916     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonAttachGlu4.ldr
+1  0      40      268     -734     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonAttachGlu4.ldr
+1  0      40      212    -1298     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonAttachGlu4.ldr
+1  0      40     -147     -860     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonAttachGlu4.ldr
+1  0      40       34     -711     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonAttachGlu4.ldr
+0 STEP
+1  0      50      -53     -711     0    -1     0 -0.71     0  0.71 -0.71     0 -0.71 muonpieces/muonAttachHorizontal9.ldr
+1  0      50      206     -672     0    -1     0    -1     0     0     0     0    -1 muonpieces/muonAttachHorizontal9.ldr
+1  0      50      558     -884     0     0    -1     0    -1     0    -1     0     0 muonpieces/muonAttachHorizontal2.ldr
+1  0      50     -312    -1126     0     0    -1     0     1     0     1     0     0 muonpieces/muonAttachHorizontal2.ldr
+1  0      50      517    -1227     0     0    -1 -0.71 -0.71     0 -0.71  0.71     0 muonpieces/muonAttachHorizontal0.ldr
+1  0      50      244    -1440     0     0    -1    -1     0     0     0     1     0 muonpieces/muonAttachHorizontal0.ldr
+1  0      50      206    -1347     0     1     0    -1     0     0     0     0     1 muonpieces/muonAttachHorizontal7.ldr
+1  0      50     -219     -922     0    -1     0     0     0     1    -1     0     0 muonpieces/muonAttachHorizontal7.ldr
+1  0      50      466     -922     0     1     0     0     0    -1    -1     0     0 muonpieces/muonAttachHorizontal7.ldr
+1  0      50     -271     -783     0     0    -1  0.71  0.71     0  0.71 -0.71     0 muonpieces/muonAttachHorizontal6.ldr
+1  0      50        2     -570     0     0    -1     1     0     0     0    -1     0 muonpieces/muonAttachHorizontal6.ldr
+1  0      50      346     -612     0     0    -1  0.71 -0.71     0 -0.71 -0.71     0 muonpieces/muonAttachHorizontal5.ldr
+1  0      50      -99    -1399     0     0    -1 -0.71  0.71     0  0.71  0.71     0 muonpieces/muonAttachHorizontal5.ldr
+1  0      50      425    -1188     0     1     0 -0.71     0 -0.71 -0.71     0  0.71 muonpieces/muonAttachHorizontal1.ldr
+1  0      50      -60    -1306     0     1     0 -0.71     0  0.71  0.71     0  0.71 muonpieces/muonAttachHorizontal1.ldr
+1  0      50      425     -822     0    -1     0 -0.71     0 -0.71  0.71     0 -0.71 muonpieces/muonAttachHorizontal1.ldr
+0 STEP
+1  0      60   -27.60    -1447     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60      565    -1156     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60     -295    -1211     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60      542     -799     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60      274     -563     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60      329    -1424     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60     -318     -854     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60      -83     -586     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonAttachEndCapGlu.ldr
+1  0      60      -81    -1499     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonAttachVertical.ldr
+1  0      60      617    -1209     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonAttachVertical.ldr
+1  0      60     -371    -1209     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonAttachVertical.ldr
+1  0      60      617     -801     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonAttachVertical.ldr
+1  0      60      327     -511     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonAttachVertical.ldr
+1  0      60      327    -1499     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonAttachVertical.ldr
+1  0      60     -371     -801     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonAttachVertical.ldr
+1  0      60      -81     -511     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonAttachVertical.ldr
+
+
+0 STEP
+1 72      31      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 87081.dat
+1 72      31      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 87081.dat
+1 72      32      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 87081.dat
+1 72      31      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 87081.dat
+1 72      32      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 87081.dat
+1 72      31     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 87081.dat
+1 72      32      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 87081.dat
+1 72      31     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 87081.dat
+0 STEP
+1 71      5      405    -1122     0     1     0 -0.92     0  0.38  0.38     0  0.92 60474.dat
+1 71      7      553    -1183     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 60474.dat
+1 71      4      240     -723     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 60474.dat
+1 71      7      301     -575     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 60474.dat
+1 71      5      405     -888     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 60474.dat
+1 71      8      553     -827     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 60474.dat
+1 71      4      240    -1287     0     1     0 -0.38     0  0.92  0.92     0  0.38 60474.dat
+1 71      7      301    -1435     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 60474.dat
+1 71      8      -55     -575     0    -1     0  0.38     0  0.92 -0.92     0  0.38 60474.dat
+1 71      5     6.56     -723     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 60474.dat
+1 71      7     -306     -827     0    -1     0  0.92     0  0.38 -0.38     0  0.92 60474.dat
+1 71      5     -159     -888     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 60474.dat
+1 71      8      -55    -1435     0    -1     0  0.38     0 -0.92  0.92     0  0.38 60474.dat
+1 71      5     6.52    -1287     0     1     0  0.38     0  0.92  0.92     0 -0.38 60474.dat
+1 71      7     -306    -1183     0    -1     0  0.92     0 -0.38  0.38     0  0.92 60474.dat
+1 71      4     -159    -1122     0     1     0  0.92     0  0.38  0.38     0 -0.92 60474.dat
