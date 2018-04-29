@@ -83,12 +83,32 @@
 
 
 0 STEP
-
-
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 Step10-ExtRightWheel.ldr
-
+1 0 -930 123.325 -1005 1 0 0 0  1  0 0  0  1 allAttachExtRight.ldr
 0 STEP
-
+1 0 -900 123.325 -1004 1 0 0 0  0.92  0.38 0 -0.38  0.92 pieces/placedcutpane.ldr
+1 0 -900 123.325 -1004 1 0 0 0  0.92 -0.38 0  0.38  0.92 pieces/placedcutpane.ldr
+1 0 -900 123.325 -1004 1 0 0 0 -0.92 -0.38 0  0.38 -0.92 pieces/placedcutpane.ldr
+1 0 -900 123.325 -1004 1 0 0 0 -0.92  0.38 0 -0.38 -0.92 pieces/placedcutpane.ldr
+0 STEP
+1 0 -900 123.325 -1004 1 0 0 0  0.38 -0.92 0  0.92  0.38 pieces/placedpane0.ldr
+1 0 -900 123.325 -1004 1 0 0 0 -0.38 -0.92 0  0.92 -0.38 pieces/placedpane0.ldr
+1 0 -900 123.325 -1004 1 0 0 0 -0.38  0.92 0 -0.92 -0.38 pieces/placedpane0.ldr
+1 0 -900 123.325 -1004 1 0 0 0  0.38  0.92 0 -0.92  0.38 pieces/placedpane0.ldr
+0 STEP
+1 0 -876 123.325 -1004 1 0 0 0     1     0 0     0     1 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0  0.71 -0.71 0  0.71  0.71 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0  0.00 -1.00 0  1.00  0.00 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0 -0.71 -0.71 0  0.71 -0.71 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0 -1.00 -0.00 0  0.00 -1.00 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0 -0.71  0.71 0 -0.71 -0.71 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0 -0.00  1.00 0 -1.00 -0.00 pieces/placedpane1.ldr
+1 0 -876 123.325 -1004 1 0 0 0  0.71  0.71 0 -0.71  0.71 pieces/placedpane1.ldr
+0 STEP
+1 0 -950 -93.95  -914.81 -1 0 0 0  0.19 -0.98 0 -0.98 -0.19 pieces/placedlongattach0.1.ldr
+1 0 -950 -93.95 -1094.81 -1 0 0 0 -0.19 -0.98 0 -0.98  0.19 pieces/placedlongattach0.1.ldr
+0 STEP
+1 0 -920 -371.11 -1209.62 1 0 0 0 1 0 0 0 1 pieces/longattach1.ldr
+1 0 -920 -371.11 -800 1 0 0 0 1 0 0 0 1 pieces/longattach1.ldr
 
 0 STEP
 
