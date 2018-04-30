@@ -36,7 +36,8 @@ allRotations = [rotate90X, rotate90Y, rotate90Z,
                     applyRotation(rotate180Y, rotate90Z), applyRotation(rotate180Y, rotate270Z),
                     applyRotation(rotate180Z, rotate90X), applyRotation(rotate180Z, rotate270X),
                     applyRotation(rotate180Z, rotate90Y), applyRotation(rotate180Z, rotate270Y)]
-    
+allRotations= []
+
 def rounded(s):
     f = float(s)
     i = round(f)
@@ -129,7 +130,7 @@ def closeEnough(itema, itemb):
         if abs(a-b) > 5:
             return False
     for a,b in zip(itema[3:], itemb[3:]):
-        if abs(a-b) > abs(0.02*max(a,b)):
+        if abs(a-b) > abs(0.02*max(a,b)) and abs(a-b) > 0.02:
             return False
     return True
 
@@ -173,10 +174,9 @@ def findPieceInModel(pieceName, piece, model):
     # check we find the corresponding one in model
     res = []
     for t, pieceToRemove in transforms:
-        #print 'Trying transform', t, tsym
+        #print 'Trying transform', t
         ok = True
         piecesToRemove = [pieceToRemove]
-        print pieceToRemove
         for b in piece:
             if not ok: break
             for col, placeInPiece in piece[b]:

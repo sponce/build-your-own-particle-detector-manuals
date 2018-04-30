@@ -11,10 +11,10 @@ def rounded(f):
 def parseLine(line):
     items = line.split()
     if len(items) == 0:
-        print line
+        print line[:-1]
         return
     if items[0] != "1":
-        print line
+        print line[:-1]
         return
     k, col, x, y, z, a, b, c, d, e, f, g, h, i, fileName = items
     x = float(x)
@@ -46,16 +46,20 @@ def applyTransform(piece, t):
     na,nb,nc = nmat[0]
     nd,ne,nf = nmat[1]
     ng,nh,ni = nmat[2]
-    print " ".join([k, col]+map(rounded, (nx, ny, nz, na, nb,nc,nd,ne,nf,ng,nh,ni))+[name])   
+    return k, col, nx, ny, nz, na, nb,nc,nd,ne,nf,ng,nh,ni, name
 
 f = open(sys.argv[1])
 opiece = parseLine(f.readline())
 ok, ocol, ox, oy, oz, omat, oname = opiece
 t = inv(omat)
-applyTransform(opiece, t)
+k, col, nx, ny, nz, na, nb,nc,nd,ne,nf,ng,nh,ni, name = applyTransform(opiece, t)
+#print " ".join([k, col]+map(rounded, (0, 0, 0, na, nb,nc,nd,ne,nf,ng,nh,ni))+[name])   
+print " ".join([k, col]+map(rounded, (nx, ny, nz, na, nb,nc,nd,ne,nf,ng,nh,ni))+[name])   
 
 for line in f.readlines():
     piece = parseLine(line)
     if piece:
-        applyTransform(piece, t)
+        k, col, x, y, z, na, nb,nc,nd,ne,nf,ng,nh,ni, name = applyTransform(piece, t)
+        #print " ".join([k, col]+map(rounded, (x-nx, y-ny, z-nz, na, nb,nc,nd,ne,nf,ng,nh,ni))+[name])   
+        print " ".join([k, col]+map(rounded, (x, y, z, na, nb,nc,nd,ne,nf,ng,nh,ni))+[name])   
 

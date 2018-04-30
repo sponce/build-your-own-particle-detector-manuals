@@ -46,10 +46,8 @@ def addSortData(brick):
         theta = copysign(math.pi/2, y)
     else:
         theta = math.atan(y/z)
-    #sortData = (int(round(float(x)/30)), int(round(math.pi/4+theta*8/math.pi)))
-    sortData = (int(round(3*math.pi/8+theta*8/math.pi)))
-    #sortData = int(float(x)/10)*10
-    #print int(round(theta*4/math.pi))
+    #sortData = (int(round(3*math.pi/8+theta*8/math.pi)))
+    sortData = int(float(x)/10)*10
     return (brick, sortData)
 
 bricks = map(addSortData, bricks)
