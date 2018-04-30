@@ -8,13 +8,15 @@ def rounded(f):
         return "%d" % i
     return '%.2f' % f
 
-for line in open(sys.argv[1]).readlines():
-    items = line.split()
-    if len(items) == 0:
+def getLines(f):
+  doTransforms = True
+  pieces = []
+  transforms = []
+  for line in open(sys.argv[1]).readlines():
+    if len(line.strip()) == 0:
+        doTransforms = False
         continue
-    if items[0] != "1":
-        continue
-    k, col, x, y, z, a, b, c, d, e, f, g, h, i, fileName = items
+    k, col, x, y, z, a, b, c, d, e, f, g, h, i, fileName = line.split()
     x = float(x)
     y = float(y)
     z = float(z)
@@ -27,20 +29,26 @@ for line in open(sys.argv[1]).readlines():
     g = float(g)
     h = float(h)
     i = float(i)
-    mat = numpy.matrix([[a,b,c], [d,e,f], [g,h,i]])
-    mat2 = numpy.matrix([[ 0, 0.38, 0.92], [-1, 0, 0], [0,-0.92,0.38]])
-    nmat = mat2*mat
-    mat2 = mat2.tolist()
-    na,nb,nc = mat2[0]
-    nd,ne,nf = mat2[1]
-    ng,nh,ni = mat2[2]
-    #print mat, inv(mat)
-    nx = na*x + nb*y + nc*z
-    ny = nd*x + ne*y + nf*z
-    nz = ng*x + nh*y + ni*z
-    nmat = nmat.tolist()
-    na,nb,nc = nmat[0]
-    nd,ne,nf = nmat[1]
-    ng,nh,ni = nmat[2]
-    print " ".join([k, col]+map(rounded, (nx, ny, nz, na, nb,nc,nd,ne,nf,ng,nh,ni))+[fileName])
+    item = (k,col,x,y,z,a,b,c,d,e,f,g,h,i,fileName)
+    if doTransforms:
+      transforms.append(item)
+    else:
+      pieces.append(item)
+  return pieces, transforms
 
+pieces, transforms = getLines(open(sys.argv[1]))
+
+for transform in transforms:
+    k,col,x,y,z,a,b,c,d,e,f,g,h,i,ignFileName = transform
+    mat = numpy.matrix([[a,b,c], [d,e,f], [g,h,i]])
+    for line in pieces:
+        kp, colp, xp, yp, zp, ap,bp,cp,dp,ep,fp,gp,hp,ip,fileName = line
+        mat2 = numpy.matrix([[ap,bp,cp], [dp,ep,fp], [gp,hp,ip]])
+        nmat = mat*mat2
+        nmat = nmat.tolist()
+        na,nb,nc = nmat[0]
+        nd,ne,nf = nmat[1]
+        ng,nh,ni = nmat[2]
+        nx,ny,nz = (mat.dot(numpy.array([xp,yp,zp])) + numpy.array([x,y,z]))[0].tolist()[0]
+        print " ".join([kp, colp]+map(rounded, (nx, ny, nz, na, nb,nc,nd,ne,nf,ng,nh,ni))+[fileName])
+    print
