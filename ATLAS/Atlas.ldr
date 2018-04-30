@@ -4,7 +4,7 @@
 
 0 STEP
 
-1 0 650  123 -1004    1 0 0 0     1     0 0     0     1 allAttachIntLeft.ldr
+1 0 650  123 -1004    1 0 0 0     1     0 0     0     1 allattachintleft.ldr
 0 STEP
 1  0   680.00    16.86  -960.60     1     0     0     0 -0.92 -0.38     0  0.38 -0.92 pieces/cutpane.ldr
 1  0   680.00    16.97 -1048.60     1     0     0     0 -0.92  0.38     0 -0.38 -0.92 pieces/cutpane.ldr
@@ -27,12 +27,13 @@
 
 0 STEP
 
-1 0 -550  123 -1004    -1 0 0 0     1     0 0     0     1 allAttachIntRight.ldr
+1 0 -550  123 -1004    -1 0 0 0     1     0 0     0     1 allattachintright.ldr
 0 STEP
-1 0 -580 123.325  -1004  -1  0  0  0 -0.92 -0.38  0 -0.38  0.92 pieces/placedcutpane.ldr
-1 0 -580 123.325  -1004  -1  0  0  0 -0.92  0.38  0  0.38  0.92 pieces/placedcutpane.ldr
-1 0 -580 123.325  -1004  -1  0  0  0  0.92  0.38  0  0.38 -0.92 pieces/placedcutpane.ldr
-1 0 -580 123.325  -1004  -1  0  0  0  0.92 -0.38  0 -0.38 -0.92 pieces/placedcutpane.ldr
+1 0 -580 17.52 -1048 -1 0 0 0 -0.92 -0.38 0 -0.38 0.92 pieces/cutpane.ldr
+1 0 -580 17.52 -960 -1 0 0 0 -0.92 0.38 0 0.38 0.92 pieces/cutpane.ldr
+1 0 -580 229 -960 -1 0 0 0 0.92 0.38 0 0.38 -0.92 pieces/cutpane.ldr
+1 0 -580 229 -1048 -1 0 0 0 0.92 -0.38 0 -0.38 -0.92 pieces/cutpane.ldr
+
 0 STEP
 1 0 -604   18.32 -1004.00  -1  0  0  0    -1     0  0     0     1 pieces/basepane.ldr
 1 0 -604  124.00 -1110.00  -1  0  0  0     0    -1  0    -1     0 pieces/basepane.ldr
@@ -50,7 +51,7 @@
 
 0 STEP
 
-1 0 1030 123.325 -1005 -1 0 0 0  1  0 0  0  1 allAttachExtLeft.ldr
+1 0 1030 123.325 -1005 -1 0 0 0  1  0 0  0  1 allattachextleft.ldr
 
 0 STEP
 1  0  1000.00   229.40  -960.60    -1     0     0     0  0.92  0.38     0  0.38 -0.92 pieces/cutpane.ldr
@@ -72,8 +73,8 @@
 1  0  1000.00   167.40 -1111.40    -1     0     0     0  0.38 -0.92     0 -0.92 -0.38 pieces/basepane.ldr
 1  0   976.00   197.20 -1079.80    -1     0     0     0  0.71 -0.71     0 -0.71 -0.71 pieces/basepane.ldr
 0 STEP
-1 0 1050 167.60 -865.72 -1 0 0 0  0.19 -0.98 0 -0.98 -0.19 pieces/placedlongattach0.ldr
-1 0 1050 167.60 -1145.72 -1 0 0 0 -0.19 -0.98 0 -0.98  0.19 pieces/placedlongattach0.ldr
+1 0 1050 168 -866 1 0 0 0 0.19 -0.98 0 -0.98 -0.19 pieces/longattach0.ldr
+1 0 1050 168 -1146 1 0 0 0 -0.19 -0.98 0 -0.98 0.19 pieces/longattach0.ldr
 0 STEP
 1  0  1020.00  -371.00 -1210.00    -1     0     0     0     1     0     0     0    -1 pieces/longattach1.ldr
 1  0  1020.00  -371.00 -800.00     -1     0     0     0     1     0     0     0    -1 pieces/longattach1.ldr
@@ -81,36 +82,37 @@
 
 
 0 STEP
-1 0 -930 123.325 -1005 1 0 0 0  1  0 0  0  1 allAttachExtRight.ldr
+1 0 -930 123.325 -1005 1 0 0 0  1  0 0  0  1 allattachextright.ldr
 0 STEP
-1 0 -900 123.325 -1004 1 0 0 0  0.92  0.38 0 -0.38  0.92 pieces/placedcutpane.ldr
-1 0 -900 123.325 -1004 1 0 0 0  0.92 -0.38 0  0.38  0.92 pieces/placedcutpane.ldr
-1 0 -900 123.325 -1004 1 0 0 0 -0.92 -0.38 0  0.38 -0.92 pieces/placedcutpane.ldr
-1 0 -900 123.325 -1004 1 0 0 0 -0.92  0.38 0 -0.38 -0.92 pieces/placedcutpane.ldr
+1 0 -900 229 -1048 1 0 0 0 0.92 0.38 0 -0.38 0.92 pieces/cutpane.ldr
+1 0 -900 229 -960 1 0 0 0 0.92 -0.38 0 0.38 0.92 pieces/cutpane.ldr
+1 0 -900 17.52 -960 1 0 0 0 -0.92 -0.38 0 0.38 -0.92 pieces/cutpane.ldr
+1 0 -900 17.52 -1048 1 0 0 0 -0.92 0.38 0 -0.38 -0.92 pieces/cutpane.ldr
+
 0 STEP
-1 0 -900 123.325 -1004 1 0 0 0  0.38 -0.92 0  0.92  0.38 pieces/placedpane0.ldr
-1 0 -900 123.325 -1004 1 0 0 0 -0.38 -0.92 0  0.92 -0.38 pieces/placedpane0.ldr
-1 0 -900 123.325 -1004 1 0 0 0 -0.38  0.92 0 -0.92 -0.38 pieces/placedpane0.ldr
-1 0 -900 123.325 -1004 1 0 0 0  0.38  0.92 0 -0.92  0.38 pieces/placedpane0.ldr
+1 0 -900 167 -898 1 0 0 0 0.38 -0.92 0 0.92 0.38 pieces/basepane.ldr
+1 0 -900 80 -898 1 0 0 0 -0.38 -0.92 0 0.92 -0.38 pieces/basepane.ldr
+1 0 -900 80 -1110 1 0 0 0 -0.38 0.92 0 -0.92 -0.38 pieces/basepane.ldr
+1 0 -900 167 -1110 1 0 0 0 0.38 0.92 0 -0.92 0.38 pieces/basepane.ldr
 0 STEP
-1 0 -876 123.325 -1004 1 0 0 0     1     0 0     0     1 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0  0.71 -0.71 0  0.71  0.71 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0  0.00 -1.00 0  1.00  0.00 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0 -0.71 -0.71 0  0.71 -0.71 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0 -1.00 -0.00 0  0.00 -1.00 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0 -0.71  0.71 0 -0.71 -0.71 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0 -0.00  1.00 0 -1.00 -0.00 pieces/placedpane1.ldr
-1 0 -876 123.325 -1004 1 0 0 0  0.71  0.71 0 -0.71  0.71 pieces/placedpane1.ldr
+1 0 -876 228 -1004 1 0 0 0 1 0 0 0 1 pieces/basepane.ldr
+1 0 -876 198 -929 1 0 0 0 0.71 -0.71 0 0.71 0.71 pieces/basepane.ldr
+1 0 -876 123 -899 1 0 0 0 0 -1 0 1 0 pieces/basepane.ldr
+1 0 -876 49 -929 1 0 0 0 -0.71 -0.71 0 0.71 -0.71 pieces/basepane.ldr
+1 0 -876 18.33 -1004 1 0 0 0 -1 0 0 0 -1 pieces/basepane.ldr
+1 0 -876 49 -1079 1 0 0 0 -0.71 0.71 0 -0.71 -0.71 pieces/basepane.ldr
+1 0 -876 123 -1109 1 0 0 0 0 1 0 -1 0 pieces/basepane.ldr
+1 0 -876 198 -1079 1 0 0 0 0.71 0.71 0 -0.71 0.71 pieces/basepane.ldr
 0 STEP
-1 0 -950 -93.95  -914.81 -1 0 0 0  0.19 -0.98 0 -0.98 -0.19 pieces/placedlongattach0.1.ldr
-1 0 -950 -93.95 -1094.81 -1 0 0 0 -0.19 -0.98 0 -0.98  0.19 pieces/placedlongattach0.1.ldr
+1 0 -950 167 -864 -1 0 0 0 0.19 -0.98 0 -0.98 -0.19 pieces/longattach0.ldr
+1 0 -950 167 -1145 -1 0 0 0 -0.19 -0.98 0 -0.98 0.19 pieces/longattach0.ldr
 0 STEP
 1 0 -920 -371.11 -1209.62 1 0 0 0 1 0 0 0 1 pieces/longattach1.ldr
 1 0 -920 -371.11 -800 1 0 0 0 1 0 0 0 1 pieces/longattach1.ldr
 
 0 STEP
 
-1 0 8 0 0 1 0 0 0 1 0 0 0 1 Step13-Support.ldr
+1 0 8 0 0 1 0 0 0 1 0 0 0 1 support.ldr
 0 STEP
 1 0 838 124.60 -1004.81 -1 0 0.00 0 1 0 -0.00 0 -1 3707.dat
 0 STEP
@@ -129,7 +131,7 @@
 
 0 STEP
 
-1 0 -1568 0 0 1 0 0 0 1 0 0 0 1 Step13-Support.ldr
+1 0 -1568 0 0 1 0 0 0 1 0 0 0 1 support.ldr
 
 0 STEP
 1 0  -738 124.60 -1004.81 -1 0 0.00 0 1 0 -0.00 0 -1 3707.dat
@@ -149,19 +151,19 @@
 
 0 STEP
 
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 Step14-Etages.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 etages.ldr
 
 0 STEP
 
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 Step8-Echelle.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 echelle.ldr
 
 0 STEP
 
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 Step22-Echelle2.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 echelle2.ldr
 
 0 STEP
 
-1 0 0 0 -400 1 0 0 0 1 0 0 0 1 Step19-Pupitre.ldr
+1 0 0 0 -400 1 0 0 0 1 0 0 0 1 pupitre.ldr
 
 0 STEP
 
@@ -169,23 +171,23 @@
 
 0 STEP
 
-1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 Step18-LeftQuarterCap.ldr
+1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 leftquartercap.ldr
 
 0 STEP
 
-1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 Step6-LeftTopCenter.ldr
+1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 lefttopcenter.ldr
 
 0 STEP
 
-1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 Step21-TopCenter.ldr
+1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 topcenter.ldr
 
 0 STEP
 
-1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 Step7-RightTopCenter.ldr
+1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 righttopcenter.ldr
 
 0 STEP
 
-1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 Step4-RightQuarterCap.ldr
+1 0 0 0 -1100 1 0 0 0 1 0 0 0 1 rightquartercap.ldr
 
 0 STEP
 

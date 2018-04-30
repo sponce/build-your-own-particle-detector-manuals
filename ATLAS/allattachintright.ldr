@@ -1,0 +1,20 @@
+0 
+0 !LPUB ASSEM MODEL_SCALE  0.8000
+1 0 0 0 0 1 0 0 0     1     0 0     0     1 allattach.ldr
+0 STEP
+0 !LPUB ASSEM MODEL_SCALE  0.7000
+1 0 0 0 0 1 0 0 0  0.71 -0.71 0  0.71  0.71 allattach.ldr
+0 STEP
+1 0 0 0 0 1 0 0 0     0    -1 0     1     0 allattach.ldr
+0 STEP
+0 !LPUB ASSEM MODEL_SCALE  0.5000
+1 0 0 0 0 1 0 0 0 -0.71 -0.71 0  0.71 -0.71 allattach.ldr
+0 STEP
+1 0 0 0 0 1 0 0 0    -1     0 0     0    -1 allattach.ldr
+0 STEP
+1 0 0 0 0 1 0 0 0 -0.71  0.71 0 -0.71 -0.71 allattach.ldr
+0 STEP
+1 0 0 0 0 1 0 0 0    -0     1 0    -1    -0 allattach.ldr
+0 STEP
+1 0 0 0 0 1 0 0 0  0.71  0.71 0 -0.71  0.71 allattach.ldr
+
