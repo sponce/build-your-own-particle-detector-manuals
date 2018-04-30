@@ -4,6 +4,7 @@
 0 ROTATION CONFIG 0 0
 
 1 0 0 0 0 1 0 0 0     1     0 0     0     1 fullattachIntLeft.ldr
+0 STEP
 1 0 0 0 0 1 0 0 0  0.71 -0.71 0  0.71  0.71 fullattachIntLeft.ldr
 0 STEP
 1 0 0 0 0 1 0 0 0     0    -1 0     1     0 fullattachIntLeft.ldr

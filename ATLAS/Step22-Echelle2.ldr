@@ -1,8 +1,9 @@
-0 FILE Echelle2.ldr
+0 FILE echelle2.ldr
 0 Name: Echelle2.ldr
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
-
+0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
+0 !LPUB ASSEM MODEL_SCALE LOCAL  0.3000
 1 0 -1015.73 712.15 -1350.39 1 0 0 0 1 0 0 0 1 EchelleStep2.ldr
 1 0  -775.73 712.15 -1350.39 1 0 0 0 1 0 0 0 1 EchelleStep2.ldr
 1 0  -535.73 712.15 -1350.39 1 0 0 0 1 0 0 0 1 EchelleStep2.ldr
@@ -12,9 +13,10 @@
 1 0   424.27 712.15 -1350.39 1 0 0 0 1 0 0 0 1 EchelleStep2.ldr
 1 0   664.27 712.15 -1350.39 1 0 0 0 1 0 0 0 1 EchelleStep2.ldr
 1 0   904.27 712.15 -1350.39 1 0 0 0 1 0 0 0 1 EchelleStep2.ldr
-
-0 FILE EchelleStep2.ldr
+0 NOFILE 
+0 FILE echellestep2.ldr
 0 Name: EchelleStep2.ldr
+0 !LPUB ASSEM MODEL_SCALE LOCAL  1.0000
 1 14   0 0 0 0 1 0 -1 0 0 0 0 1 6143.dat
 1 15  24 0 0 0 1 0 -1 0 0 0 0 1 6143.dat
 1  4  48 0 0 0 1 0 -1 0 0 0 0 1 6143.dat
@@ -25,4 +27,4 @@
 1 15 168 0 0 0 1 0 -1 0 0 0 0 1 6143.dat
 1  4 192 0 0 0 1 0 -1 0 0 0 0 1 6143.dat
 1 15 216 0 0 0 1 0 -1 0 0 0 0 1 6143.dat
-0 NOFILE
+0 NOFILE 
