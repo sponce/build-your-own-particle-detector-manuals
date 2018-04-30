@@ -3,38 +3,38 @@
 0 ROTATION CENTER 0 0 0 1 "Custom"
 0 ROTATION CONFIG 0 0
 
-1 0 0 0 0 1 0 0 0     1     0 0     0     1 fullattach.ldr
-1 0 0 0 0 1 0 0 0  0.71 -0.71 0  0.71  0.71 fullattach.ldr
+1 0 0 0 0 1 0 0 0     1     0 0     0     1 fullattachIntRight.ldr
+1 0 0 0 0 1 0 0 0  0.71 -0.71 0  0.71  0.71 fullattachIntRight.ldr
 0 STEP
-1 0 0 0 0 1 0 0 0     0    -1 0     1     0 fullattach.ldr
+1 0 0 0 0 1 0 0 0     0    -1 0     1     0 fullattachIntRight.ldr
 0 STEP
-1 0 0 0 0 1 0 0 0 -0.71 -0.71 0  0.71 -0.71 fullattach.ldr
+1 0 0 0 0 1 0 0 0 -0.71 -0.71 0  0.71 -0.71 fullattachIntRight.ldr
 0 STEP
-1 0 0 0 0 1 0 0 0    -1     0 0     0    -1 fullattach.ldr
+1 0 0 0 0 1 0 0 0    -1     0 0     0    -1 fullattachIntRight.ldr
 0 STEP
-1 0 0 0 0 1 0 0 0 -0.71  0.71 0 -0.71 -0.71 fullattach.ldr
+1 0 0 0 0 1 0 0 0 -0.71  0.71 0 -0.71 -0.71 fullattachIntRight.ldr
 0 STEP
-1 0 0 0 0 1 0 0 0    -0     1 0    -1    -0 fullattach.ldr
+1 0 0 0 0 1 0 0 0    -0     1 0    -1    -0 fullattachIntRight.ldr
 0 STEP
-1 0 0 0 0 1 0 0 0  0.71  0.71 0 -0.71  0.71 fullattach.ldr
+1 0 0 0 0 1 0 0 0  0.71  0.71 0 -0.71  0.71 fullattachIntRight.ldr
 
 0 NOFILE
 
-0 FILE fullattach.ldr
-0 Name: fullattach.ldr
-1 0 0 0 0 1 0 0 0     1     0 0     0     1 placedattach1.ldr
-1 0 0 0 0 1 0 0 0     1     0 0     0     1 placedattach2.ldr
-1 0 0 0 0 1 0 0 0  0.92 -0.38 0  0.38  0.92 placedattach3.ldr
-0 NOFILE
-0
-
-0 FILE placedattach1.ldr
-0 Name: placedattach1.ldr
-1 0 0 -265 0 1 0 0 0 1 0 0 0 1 attach1.ldr
+0 FILE fullattachIntRight.ldr
+0 Name: fullattachIntRight.ldr
+1 0 0 0 0 1 0 0 0     1     0 0     0     1 placedattach1IntRight.ldr
+1 0 0 0 0 1 0 0 0     1     0 0     0     1 placedattach2IntRight.ldr
+1 0 0 0 0 1 0 0 0  0.92 -0.38 0  0.38  0.92 placedattach3IntRight.ldr
 0 NOFILE
 0
-0 FILE attach1.ldr
-0 Name: attach1.ldr
+
+0 FILE placedattach1IntRight.ldr
+0 Name: placedattach1IntRight.ldr
+1 0 0 -265 0 1 0 0 0 1 0 0 0 1 attach1IntRight.ldr
+0 NOFILE
+0
+0 FILE attach1IntRight.ldr
+0 Name: attach1IntRight.ldr
 1  0  0 -68   3  0 -1 0 0     0    1 -1     0     0 3706.dat
 1  0  0 -48   0  0  1 0 0     0    1  1     0     0 32039.dat
 1 71  0 -68  20  1  0 0 0     1    0  0     0     1 6590.dat
@@ -52,13 +52,13 @@
 1 15 30   0   0  0  1 0 0     0   -1 -1     0     0 6143.dat
 0 NOFILE
 
-0 FILE placedattach2.ldr
-0 Name: placedattach2.ldr
-1 0 0 -425 0 1 0 0 0 1 0 0 0 1 attach2.ldr
+0 FILE placedattach2IntRight.ldr
+0 Name: placedattach2IntRight.ldr
+1 0 0 -425 0 1 0 0 0 1 0 0 0 1 attach2IntRight.ldr
 0 NOFILE
 0
-0 FILE attach2.ldr
-0 Name: attach2.ldr
+0 FILE attach2IntRight.ldr
+0 Name: attach2IntRight.ldr
 1  0  0 0   22  0 0 -1 0     1    0  1     0     0 3707.dat
 1 71  0 0   20  1 0  0 0     1    0  0     0     1 6590.dat
 1 71  0 0  -20  1 0  0 0     1    0  0     0     1 6590.dat
@@ -76,13 +76,13 @@
 1 15 30 0    0  0 1  0 0     0   -1 -1     0     0 6143.dat
 0 NOFILE
 
-0 FILE placedattach3.ldr
-0 Name: placedattach3.ldr
-1 0 0 -535 0 1 0 0 0 1 0 0 0 1 attach3.ldr
+0 FILE placedattach3IntRight.ldr
+0 Name: placedattach3IntRight.ldr
+1 0 0 -535 0 1 0 0 0 1 0 0 0 1 attach3IntRight.ldr
 0 NOFILE
 0
-0 FILE attach3.ldr
-0 Name: attach3.ldr
+0 FILE attach3IntRight.ldr
+0 Name: attach3IntRight.ldr
 1 0   0 230   0  0 1  0 -1 0  0  0  0  1 3706.dat
 1 0   0 170   0  1 0  0  0 0 -1  0  1  0 59443.dat
 1 0   0  90   0  0 0  1 -1 0  0  0 -1  0 3707.dat
