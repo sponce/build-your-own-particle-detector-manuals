@@ -36,7 +36,7 @@ allRotations = [rotate90X, rotate90Y, rotate90Z,
                     applyRotation(rotate180Y, rotate90Z), applyRotation(rotate180Y, rotate270Z),
                     applyRotation(rotate180Z, rotate90X), applyRotation(rotate180Z, rotate270X),
                     applyRotation(rotate180Z, rotate90Y), applyRotation(rotate180Z, rotate270Y)]
-allRotations= []
+#allRotations= []
 
 def rounded(s):
     f = float(s)

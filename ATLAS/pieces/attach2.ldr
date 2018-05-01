@@ -1,4 +1,5 @@
 0 
+0 !LPUB ASSEM MODEL_SCALE  1.000
 0 !LPUB MULTI_STEP BEGIN
 1  0  0 0   22  0 0 -1 0     1    0  1     0     0 3707.dat
 1 71  0 0   20  1 0  0 0     1    0  0     0     1 6590.dat
