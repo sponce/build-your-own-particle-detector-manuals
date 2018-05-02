@@ -3,41 +3,41 @@
 1  0  -120.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE  0.5000
-1  0     -224      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0     -224      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0     -224      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0     -224      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0     -223     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0     -224     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0     -223     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0     -224     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0     -224      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonattachglu3.ldr
+1  0     -224      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0     -224      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0     -224      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0     -223     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0     -224     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0     -223     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0     -224     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
-1  0     -157      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0     -157      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0     -157      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0     -157      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0     -157      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0     -157     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0     -157      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0     -157     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0     -157      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachglu3.ldr
+1  0     -157      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0     -157      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0     -157      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0     -157      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0     -157     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0     -157      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0     -157     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
-1  0      -64      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0      -64      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      -64      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      -64      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      -63     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      -64     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      -63     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      -64     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0      -64      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonattachglu3.ldr
+1  0      -64      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0      -64      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0      -64      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0      -63     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0      -64     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0      -63     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0      -64     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
-1  0     3.50      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0     3.50      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0     3.50      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0     3.50      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0     3.50      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0     3.50     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0     3.50      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0     3.50     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0     3.50      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachglu3.ldr
+1  0     3.50      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0     3.50      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0     3.50      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0     3.50      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0     3.50     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0     3.50      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0     3.50     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
 0 MLCAD BTG tmpcross
 1  0     -226     135    -1030     0 1 0 -0.92 0 -0.38 -0.38 0 0.92 tmpcross.ldr
@@ -53,10 +53,10 @@
 1  0     -106      213    -1222     1     0     0     0     1     0     0     0     1 3707.dat
 1  0     -106      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
-1  0   -90.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
-1  0   -90.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0   -90.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0   -90.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
+1  0   -90.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
+1  0   -90.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0   -90.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0   -90.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
 0 STEP
 0 MLCAD BTG tmpechelle
 1  0   -110.00   20.00 -1005.00    1     0     0     0     1    0     0     0     1 tmpechelle.ldr
@@ -88,39 +88,39 @@
 1  0       54      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
 0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE 0.0898283 0.00396301
-1  0    30.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0    30.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0    30.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonpieces/muonattachsmall2.ldr
-1  0    30.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonpieces/muonattachsmall2.ldr
+1  0    30.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonattachsmall2.ldr
+1  0    30.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonattachsmall2.ldr
+1  0    30.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonattachsmall2.ldr
+1  0    30.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonattachsmall2.ldr
 0 STEP
 1  0    40.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring.ldr
 0 STEP
-1  0    70.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0    70.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0    70.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
-1  0    70.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
+1  0    70.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0    70.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0    70.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
+1  0    70.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE 0.3000
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 railsupport.ldr
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 rail2support.ldr
 0 STEP
-1  0       96      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0       96      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0       96      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0       96      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0       97     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0       96     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0       97     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0       96     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0       96      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonattachglu3.ldr
+1  0       96      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0       96      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0       96      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0       97     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0       96     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0       97     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0       96     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
-1  0      163      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0      163      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      163      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      163      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      164      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      163     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      163      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      163     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0      163      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachglu3.ldr
+1  0      163      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0      163      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0      163      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0      164      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0      163     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0      163      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0      163     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
 1  0   200.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring.ldr
 0 STEP
@@ -145,15 +145,15 @@
 1  0      214      213    -1222     1     0     0     0     1     0     0     0     1 3707.dat
 1  0      214      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
-1  0   190.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0   190.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0   190.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonpieces/muonattachsmall2.ldr
-1  0   190.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonpieces/muonattachsmall2.ldr
+1  0   190.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonattachsmall2.ldr
+1  0   190.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonattachsmall2.ldr
+1  0   190.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonattachsmall2.ldr
+1  0   190.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonattachsmall2.ldr
 0 STEP
-1  0   230.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
-1  0   230.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0   230.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0   230.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
+1  0   230.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
+1  0   230.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0   230.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0   230.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
 0 STEP
 0 !LPUB PLI PLACEMENT LOCAL RIGHT TOP STEP_NUMBER OUTSIDE 8.71574 -0.0157409
 0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE -0.120606 0.146172
@@ -167,23 +167,23 @@
 1 0  30 -400 -1385 1 0 0 0 1 0 0 0 1 center.ldr
 0 !LPUB REMOVE GROUP "tmpechelle"
 0 STEP
-1  0      256      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0      256      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      256      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      256      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      257     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      256     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      257     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      256     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0      256      405    -1122     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonattachglu3.ldr
+1  0      256      240     -723     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0      256      405     -888     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0      256      240    -1287     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0      257     6.56     -723     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0      256     -159     -888     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0      257     6.52    -1287     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0      256     -159    -1122     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
-1  0      323      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachglu3.ldr
-1  0      323      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      323      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      323      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      324      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachglu3.ldr
-1  0      323     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachglu3.ldr
-1  0      324      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachglu3.ldr
-1  0      323     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachglu3.ldr
+1  0      323      553    -1183     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachglu3.ldr
+1  0      323      301     -575     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachglu3.ldr
+1  0      323      553     -827     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachglu3.ldr
+1  0      323      301    -1435     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachglu3.ldr
+1  0      324      -55     -575     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachglu3.ldr
+1  0      323     -306     -827     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachglu3.ldr
+1  0      324      -55    -1435     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachglu3.ldr
+1  0      323     -306    -1183     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachglu3.ldr
 0 STEP
 1  0      294       33    -1222     0     0    -1     0     1     0     1     0     0 59443.dat
 1  0      296      -94    -1095     0     0    -1     0     1     0     1     0     0 59443.dat
@@ -204,31 +204,31 @@
 1  0      374      213    -1222     1     0     0     0     1     0     0     0     1 3707.dat
 1  0      374      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
-1  0   350.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0   350.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0   350.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonpieces/muonattachsmall2.ldr
-1  0   350.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonpieces/muonattachsmall2.ldr
+1  0   350.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonattachsmall2.ldr
+1  0   350.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonattachsmall2.ldr
+1  0   350.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonattachsmall2.ldr
+1  0   350.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonattachsmall2.ldr
 0 STEP
 1  0   360.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring.ldr
 0 STEP
-1  0   390.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
-1  0   390.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0   390.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0   390.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
+1  0   390.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
+1  0   390.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0   390.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0   390.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
 0 STEP
 0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE 0.0244986 0.0964333
 1 15      330     -195    -1002     1     0     0     0     1     0     0     0     1 3958.dat
 1 0  30 -400 -1385 1 0 0 0 1 0 0 0 1 leftcentercap.ldr
 0 STEP
 0 !LPUB CALLOUT BEGIN ROTATED
-1  0   417.00   405.00 -1122.00     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonattachglu5.ldr
-1  0   417.00   240.00  -723.00     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0   417.00   405.00  -888.00     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0   417.00   240.00 -1287.00     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0   417.00     6.56  -723.00     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0   417.00  -159.00  -888.00     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0   417.00     6.52 -1287.00     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0   417.00  -159.00 -1122.00     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonattachglu5.ldr
+1  0   417.00   405.00 -1122.00     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonattachglu5.ldr
+1  0   417.00   240.00  -723.00     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonattachglu5.ldr
+1  0   417.00   405.00  -888.00     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonattachglu5.ldr
+1  0   417.00   240.00 -1287.00     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonattachglu5.ldr
+1  0   417.00     6.56  -723.00     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonattachglu5.ldr
+1  0   417.00  -159.00  -888.00     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonattachglu5.ldr
+1  0   417.00     6.52 -1287.00     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonattachglu5.ldr
+1  0   417.00  -159.00 -1122.00     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonattachglu5.ldr
 0 !LPUB CALLOUT POINTER TOP_LEFT 0.699 0.278 0
 0 !LPUB CALLOUT POINTER LEFT 0.823 0.553 0.581 0
 0 !LPUB CALLOUT POINTER BOTTOM_LEFT 0.613 0.657 0
@@ -239,14 +239,14 @@
 0 !LPUB CALLOUT POINTER TOP_LEFT 0.765 0.347 0
 0 !LPUB CALLOUT END
 0 STEP
-1  0   460.00   -55.00  -575.00     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0   460.00   -55.00 -1435.00     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0   460.00   553.00 -1183.00     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachglu5.ldr
-1  0   460.00   301.00  -575.00     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0   460.00   553.00  -827.00     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0   460.00   301.00 -1435.00     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0   460.00  -306.00  -827.00     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0   460.00  -306.00 -1183.00     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachglu5.ldr
+1  0   460.00   -55.00  -575.00     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachglu5.ldr
+1  0   460.00   -55.00 -1435.00     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachglu5.ldr
+1  0   460.00   553.00 -1183.00     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachglu5.ldr
+1  0   460.00   301.00  -575.00     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachglu5.ldr
+1  0   460.00   553.00  -827.00     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachglu5.ldr
+1  0   460.00   301.00 -1435.00     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachglu5.ldr
+1  0   460.00  -306.00  -827.00     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachglu5.ldr
+1  0   460.00  -306.00 -1183.00     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachglu5.ldr
 0 STEP
 1  0      454       33    -1222     0     0    -1     0     1     0     1     0     0 59443.dat
 1  0      456      -94    -1095     0     0    -1     0     1     0     1     0     0 59443.dat
@@ -266,17 +266,17 @@
 1  0      534      213    -1222     1     0     0     0     1     0     0     0     1 3707.dat
 1  0      536      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
-1  0   490.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonpieces/muonattachsmall2.ldr
-1  0   490.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0   490.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0   490.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonpieces/muonattachsmall2.ldr
+1  0   490.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonattachsmall2.ldr
+1  0   490.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonattachsmall2.ldr
+1  0   490.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonattachsmall2.ldr
+1  0   490.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonattachsmall2.ldr
 0 STEP
 1  0   460.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring3.ldr
 0 STEP
-1  0   530.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0   530.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0   530.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
-1  0   530.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
+1  0   530.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0   530.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0   530.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
+1  0   530.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
 0 STEP
 1  0      510      355     -965     1     0     0     0     1     0     0     0     1 2445.dat
 1  0      510      355    -1045     1     0     0     0     1     0     0     0     1 2445.dat
@@ -289,10 +289,10 @@
 1  0     0.00     0.00     0.00     1     0     0     0     1     0     0    -0     1 muonendcap1.ldr
 0 STEP
 0 !LPUB REMOVE GROUP "tmpcross"
-1  0  -130.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0  -130.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0  -130.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonpieces/muonattachsmall2.ldr
-1  0  -130.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonpieces/muonattachsmall2.ldr
+1  0  -130.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonattachsmall2.ldr
+1  0  -130.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonattachsmall2.ldr
+1  0  -130.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonattachsmall2.ldr
+1  0  -130.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonattachsmall2.ldr
 0 STEP
 1  0     -186       33    -1222     0     0    -1     0     1     0     1     0     0 59443.dat
 1  0     -184      -94    -1095     0     0    -1     0     1     0     1     0     0 59443.dat
@@ -312,17 +312,17 @@
 1  0     -266      213    -1222     1     0     0     0     1     0     0     0     1 3707.dat
 1  0     -266      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
-1  0  -250.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
-1  0  -250.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0  -250.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0  -250.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
+1  0  -250.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
+1  0  -250.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0  -250.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0  -250.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
 0 STEP
 1  0  -280.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring.ldr
 0 STEP
-1  0  -290.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0  -290.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonpieces/muonattachsmall2.ldr
-1  0  -290.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonpieces/muonattachsmall2.ldr
-1  0  -290.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonpieces/muonattachsmall2.ldr
+1  0  -290.00   340.80 -1094.20     1     0     0     0 -0.71 -0.71     0  0.71 -0.71 muonattachsmall2.ldr
+1  0  -290.00   213.20  -787.20     1     0     0     0 -0.71  0.71     0 -0.71 -0.71 muonattachsmall2.ldr
+1  0  -290.00   -94.80  -915.80     1     0     0     0  0.71  0.71     0 -0.71  0.71 muonattachsmall2.ldr
+1  0  -290.00    33.80 -1222.80     1     0     0     0  0.71 -0.71     0  0.71  0.71 muonattachsmall2.ldr
 0 STEP
 1  0     -346       33    -1222     0     0    -1     0     1     0     1     0     0 59443.dat
 1  0     -344      -94    -1095     0     0    -1     0     1     0     1     0     0 59443.dat
@@ -342,31 +342,31 @@
 1  0   -426      213    -1222     1     0     0     0     1     0     0     0     1 3707.dat
 1  0   -426      341    -1095     1     0     0     0     1     0     0     0     1 3707.dat
 0 STEP
-1  0  -390.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall.ldr
-1  0  -390.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonpieces/muonattachsmall2.ldr
-1  0  -390.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonpieces/muonattachsmall2.ldr
-1  0  -390.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonpieces/muonattachsmall2.ldr
+1  0  -390.00   331.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall.ldr
+1  0  -390.00    33.00  -788.00     1     0     0     0     0     1     0    -1     0 muonattachsmall2.ldr
+1  0  -390.00   213.00 -1222.00     1     0     0     0     0    -1     0     1     0 muonattachsmall2.ldr
+1  0  -390.00   -94.00 -1095.00     1     0     0     0     1     0     0     0     1 muonattachsmall2.ldr
 0 STEP
 1  0     -370      355     -965     1     0     0     0     1     0     0     0     1 2445.dat
 1  0     -370      355    -1045     1     0     0     0     1     0     0     0     1 2445.dat
 0 STEP
-1  0  -317.00   553.00 -1183.00     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachglu5.ldr
-1  0  -317.00   301.00  -575.00     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0  -317.00   553.00  -827.00     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0  -317.00   301.00 -1435.00     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0  -317.00   -55.00  -575.00     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0  -317.00  -306.00  -827.00     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0  -317.00   -55.00 -1435.00     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0  -317.00  -306.00 -1183.00     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachglu5.ldr
+1  0  -317.00   553.00 -1183.00     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachglu5.ldr
+1  0  -317.00   301.00  -575.00     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachglu5.ldr
+1  0  -317.00   553.00  -827.00     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachglu5.ldr
+1  0  -317.00   301.00 -1435.00     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachglu5.ldr
+1  0  -317.00   -55.00  -575.00     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachglu5.ldr
+1  0  -317.00  -306.00  -827.00     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachglu5.ldr
+1  0  -317.00   -55.00 -1435.00     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachglu5.ldr
+1  0  -317.00  -306.00 -1183.00     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachglu5.ldr
 0 STEP
-1  0  -360.00   405.00 -1122.00     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonpieces/muonattachglu5.ldr
-1  0  -360.00   240.00  -723.00     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0  -360.00   405.00  -888.00     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0  -360.00   240.00 -1287.00     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonpieces/muonattachglu5.ldr
-1  0  -360.00  -159.00  -888.00     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonpieces/muonattachglu5.ldr
-1  0  -360.00  -159.00 -1122.00     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonpieces/muonattachglu5.ldr
-1  0  -360.00     6.56  -723.00     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonpieces/muonattachglu5.ldr
-1  0  -360.00     6.52 -1287.00     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonpieces/muonattachglu5.ldr
+1  0  -360.00   405.00 -1122.00     0     1     0  0.38     0  0.92  0.92     0 -0.38 muonattachglu5.ldr
+1  0  -360.00   240.00  -723.00     0     1     0 -0.92     0  0.38  0.38     0  0.92 muonattachglu5.ldr
+1  0  -360.00   405.00  -888.00     0     1     0 -0.38     0  0.92  0.92     0  0.38 muonattachglu5.ldr
+1  0  -360.00   240.00 -1287.00     0     1     0  0.92     0  0.38  0.38     0 -0.92 muonattachglu5.ldr
+1  0  -360.00  -159.00  -888.00     0     1     0 -0.38     0 -0.92 -0.92     0  0.38 muonattachglu5.ldr
+1  0  -360.00  -159.00 -1122.00     0     1     0  0.38     0 -0.92 -0.92     0 -0.38 muonattachglu5.ldr
+1  0  -360.00     6.56  -723.00     0     1     0 -0.92     0 -0.38 -0.38     0  0.92 muonattachglu5.ldr
+1  0  -360.00     6.52 -1287.00     0     1     0  0.92     0 -0.38 -0.38     0 -0.92 muonattachglu5.ldr
 0 STEP
 1  0  -440.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring2.ldr
 0 STEP

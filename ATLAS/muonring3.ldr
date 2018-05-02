@@ -1,43 +1,43 @@
 0 
 0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
-1  0   60    617     -801     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonpieces/muonattachvertical.ldr
-1  0   50    558     -884     0     0    -1     0    -1     0    -1     0     0 muonpieces/muonattachhorizontal2.ldr
-1  0   50    466     -922     0     1     0     0     0    -1    -1     0     0 muonpieces/muonattachhorizontal7.ldr
+1  0   60    617     -801     0    -1     0 -0.38     0 -0.92  0.92     0 -0.38 muonattachvertical.ldr
+1  0   50    558     -884     0     0    -1     0    -1     0    -1     0     0 muonattachhorizontal2.ldr
+1  0   50    466     -922     0     1     0     0     0    -1    -1     0     0 muonattachhorizontal7.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE LOCAL  0.8000
-1  0   60    617    -1209     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonpieces/muonattachvertical.ldr
-1  0   50    517    -1227     0     0    -1 -0.71 -0.71     0 -0.71  0.71     0 muonpieces/muonattachhorizontal0.ldr
-1  0   50    425    -1188     0     1     0 -0.71     0 -0.71 -0.71     0  0.71 muonpieces/muonattachhorizontal1.ldr
+1  0   60    617    -1209     0    -1     0  0.38     0 -0.92  0.92     0  0.38 muonattachvertical.ldr
+1  0   50    517    -1227     0     0    -1 -0.71 -0.71     0 -0.71  0.71     0 muonattachhorizontal0.ldr
+1  0   50    425    -1188     0     1     0 -0.71     0 -0.71 -0.71     0  0.71 muonattachhorizontal1.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE LOCAL  0.8000
-1  0   60    327    -1499     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonpieces/muonattachvertical.ldr
-1  0   50    244    -1440     0     0    -1    -1     0     0     0     1     0 muonpieces/muonattachhorizontal0.ldr
-1  0   50    206    -1347     0     1     0    -1     0     0     0     0     1 muonpieces/muonattachhorizontal7.ldr
+1  0   60    327    -1499     0    -1     0  0.92     0 -0.38  0.38     0  0.92 muonattachvertical.ldr
+1  0   50    244    -1440     0     0    -1    -1     0     0     0     1     0 muonattachhorizontal0.ldr
+1  0   50    206    -1347     0     1     0    -1     0     0     0     0     1 muonattachhorizontal7.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE LOCAL  0.5000
-1  0   60    -81    -1499     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonpieces/muonattachvertical.ldr
-1  0   50    -99    -1399     0     0    -1 -0.71  0.71     0  0.71  0.71     0 muonpieces/muonattachhorizontal5.ldr
-1  0   50    -60    -1306     0     1     0 -0.71     0  0.71  0.71     0  0.71 muonpieces/muonattachhorizontal1.ldr
+1  0   60    -81    -1499     0    -1     0  0.92     0  0.38 -0.38     0  0.92 muonattachvertical.ldr
+1  0   50    -99    -1399     0     0    -1 -0.71  0.71     0  0.71  0.71     0 muonattachhorizontal5.ldr
+1  0   50    -60    -1306     0     1     0 -0.71     0  0.71  0.71     0  0.71 muonattachhorizontal1.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE LOCAL  0.5000
-1  0   60   -371    -1209     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonpieces/muonattachvertical.ldr
-1  0   50   -312    -1126     0     0    -1     0     1     0     1     0     0 muonpieces/muonattachhorizontal2.ldr
-1  0   50   -219     -922     0    -1     0     0     0     1    -1     0     0 muonpieces/muonattachhorizontal7.ldr
+1  0   60   -371    -1209     0    -1     0  0.38     0  0.92 -0.92     0  0.38 muonattachvertical.ldr
+1  0   50   -312    -1126     0     0    -1     0     1     0     1     0     0 muonattachhorizontal2.ldr
+1  0   50   -219     -922     0    -1     0     0     0     1    -1     0     0 muonattachhorizontal7.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE LOCAL  0.5000
-1  0   60   -371     -801     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonpieces/muonattachvertical.ldr
-1  0   50    -53     -711     0    -1     0 -0.71     0  0.71 -0.71     0 -0.71 muonpieces/muonattachhorizontal9.ldr
-1  0   50   -271     -783     0     0    -1  0.71  0.71     0  0.71 -0.71     0 muonpieces/muonattachhorizontal6.ldr
+1  0   60   -371     -801     0    -1     0 -0.38     0  0.92 -0.92     0 -0.38 muonattachvertical.ldr
+1  0   50    -53     -711     0    -1     0 -0.71     0  0.71 -0.71     0 -0.71 muonattachhorizontal9.ldr
+1  0   50   -271     -783     0     0    -1  0.71  0.71     0  0.71 -0.71     0 muonattachhorizontal6.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE LOCAL  0.5000
-1  0   60    -81     -511     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonpieces/muonattachvertical.ldr
-1  0   50    206     -672     0    -1     0    -1     0     0     0     0    -1 muonpieces/muonattachhorizontal9.ldr
-1  0   50      2     -570     0     0    -1     1     0     0     0    -1     0 muonpieces/muonattachhorizontal6.ldr
+1  0   60    -81     -511     0    -1     0 -0.92     0  0.38 -0.38     0 -0.92 muonattachvertical.ldr
+1  0   50    206     -672     0    -1     0    -1     0     0     0     0    -1 muonattachhorizontal9.ldr
+1  0   50      2     -570     0     0    -1     1     0     0     0    -1     0 muonattachhorizontal6.ldr
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE  0.5000
-1  0   60    327     -511     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonpieces/muonattachvertical.ldr
-1  0   50    346     -612     0     0    -1  0.71 -0.71     0 -0.71 -0.71     0 muonpieces/muonattachhorizontal5.ldr
-1  0   50    425     -822     0    -1     0 -0.71     0 -0.71  0.71     0 -0.71 muonpieces/muonattachhorizontal1.ldr
+1  0   60    327     -511     0    -1     0 -0.92     0 -0.38  0.38     0 -0.92 muonattachvertical.ldr
+1  0   50    346     -612     0     0    -1  0.71 -0.71     0 -0.71 -0.71     0 muonattachhorizontal5.ldr
+1  0   50    425     -822     0    -1     0 -0.71     0 -0.71  0.71     0 -0.71 muonattachhorizontal1.ldr
 
 
 0 STEP
