@@ -8,6 +8,7 @@
 1  0  -980.00   704.00  -640.00     0     0    -1     0     1     0     1     0     0 3033.dat
 0 STEP
 0 !LPUB ASSEM MODEL_SCALE  0.4000
+0 !LPUB CALLOUT BEGIN ROTATED
 1  0  -990.00   550.00  -550.00    -1     0     0     0     1     0     0     0    -1 etage.ldr
 1  0  -988.00   410.00  -550.00    -1     0     0     0     1     0     0     0    -1 etage.ldr
 1  0  -988.00   270.00  -550.00    -1     0     0     0     1     0     0     0    -1 etage.ldr
@@ -16,6 +17,9 @@
 1  0  -990.00  -150.00  -550.00    -1     0     0     0     1     0     0     0    -1 etage.ldr
 1  0  -990.00  -290.00  -550.00    -1     0     0     0     1     0     0     0    -1 etage.ldr
 1  0  -990.00  -430.00  -550.00    -1     0     0     0     1     0     0     0    -1 etage.ldr
+0 !LPUB CALLOUT POINTER LEFT 0.516 1.047 0.434 0
+0 !LPUB CALLOUT PLACEMENT RIGHT CENTER ASSEM OUTSIDE 1.39165 -0.105298
+0 !LPUB CALLOUT END
 0 STEP
 1 14  -961.00  -356.00  -600.00     0     0    -1     0     1     0     1     0     0 3626c.dat
 1  4  -961.00  -356.00  -600.00     0     0    -1     0     1     0     1     0     0 3833.dat

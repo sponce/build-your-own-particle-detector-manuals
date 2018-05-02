@@ -1,20 +1,15 @@
-0 
-0 !LPUB ASSEM MODEL_SCALE  0.8000
-1 0 0 0 0 1 0 0 0     1     0 0     0     1 allattach.ldr
-0 STEP
-0 !LPUB ASSEM MODEL_SCALE  0.7000
-1 0 0 0 0 1 0 0 0  0.71 -0.71 0  0.71  0.71 allattach.ldr
-0 STEP
-1 0 0 0 0 1 0 0 0     0    -1 0     1     0 allattach.ldr
-0 STEP
+0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
 0 !LPUB ASSEM MODEL_SCALE  0.5000
+0 !LPUB CALLOUT BEGIN ROTATED
+1 0 0 0 0 1 0 0 0     1     0 0     0     1 allattach.ldr
+1 0 0 0 0 1 0 0 0  0.71 -0.71 0  0.71  0.71 allattach.ldr
+1 0 0 0 0 1 0 0 0     0    -1 0     1     0 allattach.ldr
 1 0 0 0 0 1 0 0 0 -0.71 -0.71 0  0.71 -0.71 allattach.ldr
-0 STEP
 1 0 0 0 0 1 0 0 0    -1     0 0     0    -1 allattach.ldr
-0 STEP
 1 0 0 0 0 1 0 0 0 -0.71  0.71 0 -0.71 -0.71 allattach.ldr
-0 STEP
 1 0 0 0 0 1 0 0 0    -0     1 0    -1    -0 allattach.ldr
-0 STEP
 1 0 0 0 0 1 0 0 0  0.71  0.71 0 -0.71  0.71 allattach.ldr
+0 !LPUB CALLOUT POINTER LEFT 0.253 0.961 0.300 0
+0 !LPUB CALLOUT PLACEMENT RIGHT CENTER ASSEM OUTSIDE 0.0815362 -0.0481438
+0 !LPUB CALLOUT END
 
