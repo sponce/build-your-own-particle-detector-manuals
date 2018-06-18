@@ -80,7 +80,7 @@
 0 !LPUB CALLOUT PLACEMENT RIGHT CENTER ASSEM OUTSIDE 0.115955 -0.381989
 0 !LPUB CALLOUT END
 0 !LPUB CALLOUT BEGIN ROTATED
-1  0     30     -209     -922     0    -1     0     0     0     1    -1     0     0 muonattachhorizontal8.ldr
+1  0     30     -220     -922     0    -1     0     0     0     1    -1     0     0 muonattachhorizontal1.ldr
 0 !LPUB CALLOUT POINTER TOP_LEFT 0.734 0.138 0
 0 !LPUB CALLOUT PLACEMENT RIGHT CENTER ASSEM OUTSIDE 0.257298 -0.117572
 0 !LPUB CALLOUT END
