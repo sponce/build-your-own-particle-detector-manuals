@@ -380,7 +380,7 @@
 0 !LPUB CALLOUT END
 0 STEP
 0 !LPUB CALLOUT BEGIN ROTATED
-1  0   460.00    -0.00     0.00     1     0     0     0     1    -0     0     0     1 muonring3.ldr
+1  0   500  140 -1000     1     0     0     0     1    -0     0     0     1 muonring3.ldr
 0 !LPUB CALLOUT POINTER LEFT 0.308 0.813 0.421 0
 0 !LPUB CALLOUT PLACEMENT RIGHT CENTER ASSEM OUTSIDE -0.128937 -0.00153721
 0 !LPUB CALLOUT END

@@ -1,7 +1,7 @@
 0 
 0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
 0 !LPUB ASSEM MODEL_SCALE  0.500
-1  0   -40.00     0.00     0.00     1     0     0     0     1     0     0     0     1 muonring3.ldr
+1  0  0  140 -1000 1 0 0     0 1     0     0 0     1 muonring3.ldr
 
 0 STEP
 1 72 24 6.60  -723 0 1 0 -0.92 0 -0.38 -0.38 0  0.92 87081.dat
