@@ -1,7 +1,7 @@
 0
 0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
-0 !LPUB ASSEM MODEL_SCALE  1.00
-1  0 20    0     0 1 0 0     0 1     0     0 0     1 simplemuonring.ldr
+0 !LPUB ASSEM MODEL_SCALE  0.50
+1  0 20  140 -1000 1 0 0     0 1     0     0 0     1 simplemuonring.ldr
 
 0 STEP
 1 71 12 6.54  -723 0 1 0 -0.38 0  0.92  0.92 0  0.38 60474.dat
