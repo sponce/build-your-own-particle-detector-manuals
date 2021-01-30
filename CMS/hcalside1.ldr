@@ -1,0 +1,4 @@
+0 FILE Hcal_Side1.lxf
+
+1 0  0 0 0  1 0 0 0 1 0 0 0 1 hcalouter.ldr
+1 0  -50 -10 -10  1 0 0 0 1 0 0 0 1 hcalinner.ldr
