@@ -1,5 +1,7 @@
-1  0     0     0     0  1  0  0  0  1  0  0  0  1 endcapring1.ldr
-1  0     0     0     0  1  0  0  0  1  0  0  0  1 endcapring2.ldr
+0 FILE endcap.ldr
+
+1  0  -990  -402   580  1  0  0  0  1  0  0  0  1 endcapring1.ldr
+1  0  -990  -402   700  1  0  0  0  1  0  0  0  1 endcapring2.ldr
 
 1  4  -731    -6   700  0 -0 -1  0  1 -0  1  0  0 3009.dat
 1  4 -1251    -7   700  0 -0 -1  0  1 -0  1  0  0 3009.dat
