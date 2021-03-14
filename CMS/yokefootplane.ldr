@@ -1,5 +1,5 @@
-0 FILE yokefootplane.ldr
 0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
+0 ROTSTEP 45 120 180 ABS
 
 1 4 -80 -101  19  1 0  0 0 1 0 0 0  1 3938.dat
 1 4 -40 -101  19  1 0  0 0 1 0 0 0  1 3938.dat
