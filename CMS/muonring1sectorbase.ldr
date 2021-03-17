@@ -1,3 +1,8 @@
+0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
+
+0 !LPUB MULTI_STEP BEGIN
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+
 1 71    64    -8  -168  0  0  1  0  1  0 -1  0  0 3022.dat
 1 71    64    -8  -118  0  0  1  0  1  0 -1  0  0 3021.dat
 1 71    54    -8  -208  1  0  0  0  1  0  0  0  1 3021.dat
@@ -21,6 +26,8 @@
 1 71   -36    -8   -98 -1  0  0  0  1  0  0  0 -1 4275b.dat
 
 0 STEP
+
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
 
 1 71    44   -16  -168  1  0  0  0  1  0  0  0  1 3036.dat
 1 71    44   -16   -98 -1  0  0  0  1  0  0  0 -1 3460.dat
@@ -63,6 +70,10 @@
 
 0 STEP
 
+0 !LPUB MULTI_STEP END
+
+0 !LPUB MULTI_STEP BEGIN
+
 1  4    35   -32   -98  1  0  0  0  1  0  0  0  1 3460.dat
 1  4    35   -32  -118  1  0  0  0  1  0  0  0  1 3460.dat
 1  4    35   -32  -218  1  0  0  0  1  0  0  0  1 3460.dat
@@ -92,15 +103,25 @@
 
 0 STEP
 
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+
 1 71    35   -48  -148 -1  0  0  0  1  0  0  0 -1 3036.dat
 1 71    35   -48  -218  1  0  0  0  1  0  0  0  1 3460.dat
 
 0 STEP
 
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+
 1  4    35   -56   -98  1  0  0  0  1  0  0  0  1 3460.dat
 1  4    35   -56  -168 -1  0  0  0  1  0  0  0 -1 3036.dat
 
 0 STEP
+
+0 !LPUB MULTI_STEP END
+
+0 !LPUB MULTI_STEP BEGIN
+
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
 
 1  4    36   -64  -148  1  0  0  0  1  0  0  0  1 3036.dat
 1  4    36   -64  -218 -1  0  0  0  1  0  0  0 -1 3460.dat
@@ -149,6 +170,8 @@
 
 0 STEP
 
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+
 1  4    66   -88  -148  0  0 -1  0  1  0  1  0  0 3795.dat
 1  4    96   -88  -148  0  0  1  0  1  0 -1  0  0 3666.dat
 1  4    96   -88  -218  0  0  1  0  1  0 -1  0  0 3024.dat
@@ -157,6 +180,12 @@
 1  4    26   -88  -218  1  0  0  0  1  0  0  0  1 3666.dat
 
 0 STEP
+
+0 !LPUB MULTI_STEP END
+
+0 !LPUB MULTI_STEP BEGIN
+
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
 
 1  4    47   -96  -128  1  0  0  0  1  0  0  0  1 3795.dat
 1  4    47   -96  -168  1  0  0  0  1  0  0  0  1 3795.dat
@@ -199,3 +228,7 @@
 1 71    37  -112  -168 -1  0  0  0  1  0  0  0 -1 3795.dat
 1 71    37  -112  -208 -1  0  0  0  1  0  0  0 -1 3795.dat
 1 71    37  -112   -98  1  0  0  0  1  0  0  0  1 3666.dat
+
+0 STEP
+
+0 !LPUB MULTI_STEP END
