@@ -1,6 +1,21 @@
-0 FILE endcapdeco1.ldr
+0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
 
-1 71     20   -70     8  1  0  0  0  0 -1  0  1  0 50305.dat
-1 14     30  -150     0 -1  0  0  0  0  1  0  1  0 3068b.dat
-1 14      0  -150     0  0  0 -1 -1  0  0  0  1  0 59489.dat
-1 71     20  -160     8 -1  0  0  0  0  1  0  1  0 3623.dat
+0 !LPUB CALLOUT PLI PLACEMENT LOCAL LEFT CENTER ASSEM OUTSIDE
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 2
+
+0 ROTSTEP 110 0   0 REL
+
+1 71    -20   -70     0 -1  0  0  0  0 -1  0 -1  0 50305.dat
+1 71    -20  -160     0  1  0  0  0  0  1  0 -1  0 3623.dat
+
+0 STEP
+
+0 !LPUB CALLOUT PLI PLACEMENT LOCAL LEFT CENTER ASSEM OUTSIDE
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 2
+
+1 14    -10  -150     8  1  0  0  0  0  1  0 -1  0 3068b.dat
+1 14    -40  -150     8  0  0 -1  1  0  0  0 -1  0 59489.dat
+
+0 STEP
+
+0 ROTSTEP END
