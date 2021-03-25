@@ -1,0 +1,79 @@
+0 !LPUB PAGE SIZE GLOBAL 8.5000 11.0000
+
+0 STEP
+
+1  0  0  0    0 1 0 0  0 1 0  0 0 1  hcalmodule121flat.ldr  
+
+0 STEP
+
+1  0  -340  0 -120  -1 0 0  0 1 0  0 0 -1  hcalmodule341flat.ldr  
+
+0 STEP
+
+1  0  0  0 -120 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 -240  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 -240 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 -360  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 -360 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 -480  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 -480 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 -600  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  -340  0  0  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 120 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 120  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 240 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 240  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 360 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -340  0 360  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+
+0 STEP
+
+1  0  0  0 480 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+
+0 STEP
+
+1  0  -30 96 -230  0 0 1  0 1 0  -1 0 0  ecalandtracker.ldr
+
+0 STEP
