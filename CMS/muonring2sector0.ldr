@@ -44,10 +44,4 @@
 0 STEP
 
 0 ROTSTEP END
-
-1  0     0  -160    10  1  0  0  0  1  0  0  0  1 muonsupport.ldr
-
-0 STEP
-
-0 ROTSTEP END
 0 !LPUB MULTI_STEP END
