@@ -1,0 +1,39 @@
+0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
+
+0 !LPUB MULTI_STEP BEGIN
+
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+0 ROTSTEP 45 120 180 ABS
+
+1  0     0    -8     0  1  0  0  0  1  0  0  0  1 muonring1sectorbase.ldr
+
+1  2    50     0   -60  1  0  0  0  1  0  0  0  1 3710.dat
+1  2   -50     0   -60  1  0  0  0  1  0  0  0  1 3710.dat
+1  2   -80     0    10  0  0  1  0  1  0 -1  0  0 3666.dat
+1  2     0     0   -60  1  0  0  0  1  0  0  0  1 3024.dat
+
+0 STEP
+
+0 ROTSTEP END
+0 ROTSTEP 0 90 0 REL
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1.5
+
+1 71     0  -120    60 -1  0  0  0  1  0  0  0 -1 44728.dat
+1 71    50  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71   -50  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71    30  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71    10  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71   -10  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71   -30  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71    40  -120    60  1  0  0  0  1  0  0  0  1 3069b.dat
+1 71   -40  -120    60  1  0  0  0  1  0  0  0  1 3069b.dat
+
+0 STEP
+
+1 71    11   -60    82  0  0 -1  1  0  0  0 -1  0 6636.dat
+1 71    -9   -60    82  0  0 -1  1  0  0  0 -1  0 6636.dat
+
+0 STEP
+
+0 ROTSTEP END
+0 !LPUB MULTI_STEP END
