@@ -4,17 +4,17 @@
 
 0 STEP
 
-1 0  -80  -32 100  1 0 0  0 1 0  0 0  1  yokefoot.ldr
+0 0  -80  -32 100  1 0 0  0 1 0  0 0  1  yokefoot.ldr
 1 0  -80  -32 240  1 0 0  0 1 0  0 0  1  yokefoot.ldr
 1 0  -80  -32 380  1 0 0  0 1 0  0 0  1  yokefoot.ldr
 1 0  -80  -32 520  1 0 0  0 1 0  0 0  1  yokefoot.ldr
-1 0  -80  -32 660  1 0 0  0 1 0  0 0  1  yokefoot.ldr
+0 0  -80  -32 660  1 0 0  0 1 0  0 0  1  yokefoot.ldr
 
-1 0 -340  -32 180 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
+0 0 -340  -32 180 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
 1 0 -340  -32 320 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
 1 0 -340  -32 460 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
 1 0 -340  -32 600 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
-1 0 -340  -32 740 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
+0 0 -340  -32 740 -1 0 0  0 1 0  0 0 -1  yokefoot.ldr
 
 0 STEP
 
@@ -26,25 +26,25 @@
 
 0 STEP
 
-1 0 -210 -436 150  1 0 0  0 1 0  0 0 1  muonring-2sector0s.ldr
+0 0 -210 -436 150  1 0 0  0 1 0  0 0 1  muonring-2sector0s.ldr
 1 0 -210 -436 290  1 0 0  0 1 0  0 0 1  muonring1sector0s.ldr
 1 0 -210 -436 420  1 0 0  0 1 0  0 0 1  muonring0sector0s.ldr
 1 0 -210 -436 550  1 0 0  0 1 0  0 0 1  muonring1sector0s.ldr
-1 0 -210 -436 690  1 0 0  0 1 0  0 0 1  muonring2sector0s.ldr
+0 0 -210 -436 690  1 0 0  0 1 0  0 0 1  muonring2sector0s.ldr
 
 0 STEP
 
-1 0 -213 -430 150   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring2sector11s.ldr
+0 0 -213 -430 150   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring2sector11s.ldr
 1 0 -213 -430 290   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring1sector11s.ldr
 1 0 -209 -437 420   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring0sector11s.ldr
 1 0 -213 -430 550   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring-1sector11s.ldr
-1 0 -213 -430 690   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring-2sector11s.ldr
+0 0 -213 -430 690   0.87 -0.50 0   0.50  0.87 0  0 0 1  muonring-2sector11s.ldr
 
-1 0 -207 -430 150   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring2sector1s.ldr
+0 0 -207 -430 150   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring2sector1s.ldr
 1 0 -207 -430 290   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring1sector1s.ldr
 1 0 -211 -438 420   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring0sector1s.ldr
 1 0 -207 -430 550   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring-1sector1s.ldr
-1 0 -207 -430 690   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring-2sector1s.ldr
+0 0 -207 -430 690   0.87  0.50 0  -0.50  0.87 0  0 0 1  muonring-2sector1s.ldr
 
 0 STEP
 
@@ -56,6 +56,78 @@
 0 STEP
 
 1 0 -220 -430 530  0 0 -1  0 1 0  1 0 0  hcal.ldr
+
+0 STEP
+
+1 0 -230 -644 140 -1 0 0  0 -1 0  0 0 1  muonsupport.ldr
+1 0 -230 -644 280 -1 0 0  0 -1 0  0 0 1  muonsupport.ldr
+
+1 47 -230 -676 380 -1 0 0  0 1 0  0 0 -1  3002.dat
+1 47 -230 -676 420 -1 0 0  0 1 0  0 0 -1  3002.dat
+1 47 -230 -676 460 -1 0 0  0 1 0  0 0 -1  3002.dat
+
+1 0 -230 -644 560 -1 0 0  0 -1 0  0 0 1  muonsupport.ldr
+1 0 -230 -644 700 -1 0 0  0 -1 0  0 0 1  muonsupport.ldr
+
+0 STEP
+
+0  0 -210 -436 420  0.50 -0.87 0   0.87  0.50 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420     0    -1 0      1     0 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420 -0.50 -0.87 0   0.87 -0.50 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420 -0.87 -0.50 0   0.50 -0.87 0  0 0 1  muonring0sector2s.ldr
+1  0 -210 -436 420    -1     0 0      0    -1 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420 -0.87  0.50 0  -0.50 -0.87 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420 -0.50  0.87 0  -0.87 -0.50 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420     0     1 0     -1     0 0  0 0 1  muonring0sector2s.ldr
+0  0 -210 -436 420  0.50  0.87 0  -0.87  0.50 0  0 0 1  muonring0sector2s.ldr
+
+0 STEP
+
+0  0 -210 -436 290  0.50 -0.87 0   0.87  0.50 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290     0    -1 0      1     0 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290 -0.50 -0.87 0   0.87 -0.50 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290 -0.87 -0.50 0   0.50 -0.87 0  0 0 1  muonring1sector2s.ldr
+1  0 -210 -436 290    -1     0 0      0    -1 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290 -0.87  0.50 0  -0.50 -0.87 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290 -0.50  0.87 0  -0.87 -0.50 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290     0     1 0     -1     0 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 290  0.50  0.87 0  -0.87  0.50 0  0 0 1  muonring1sector2s.ldr
+
+0 STEP
+
+0  0 -210 -436 550  0.50 -0.87 0   0.87  0.50 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550     0    -1 0      1     0 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550 -0.50 -0.87 0   0.87 -0.50 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550 -0.87 -0.50 0   0.50 -0.87 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550    -1     0 0      0    -1 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550 -0.87  0.50 0  -0.50 -0.87 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550 -0.50  0.87 0  -0.87 -0.50 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550     0     1 0     -1     0 0  0 0 1  muonring1sector2s.ldr
+0  0 -210 -436 550  0.50  0.87 0  -0.87  0.50 0  0 0 1  muonring1sector2s.ldr
+
+0 STEP
+
+0  0 -210 -436 690  0.50 -0.87 0   0.87  0.50 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690     0    -1 0      1     0 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690 -0.50 -0.87 0   0.87 -0.50 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690 -0.87 -0.50 0   0.50 -0.87 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690    -1     0 0      0    -1 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690 -0.87  0.50 0  -0.50 -0.87 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690 -0.50  0.87 0  -0.87 -0.50 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690     0     1 0     -1     0 0  0 0 1  muonring2sector2s.ldr
+0  0 -210 -436 690  0.50  0.87 0  -0.87  0.50 0  0 0 1  muonring2sector2s.ldr
+
+0 STEP
+
+0  0 -210 -436 150  0.50 -0.87 0   0.87  0.50 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150     0    -1 0      1     0 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150 -0.50 -0.87 0   0.87 -0.50 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150 -0.87 -0.50 0   0.50 -0.87 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150    -1     0 0      0    -1 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150 -0.87  0.50 0  -0.50 -0.87 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150 -0.50  0.87 0  -0.87 -0.50 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150     0     1 0     -1     0 0  0 0 1  muonring-2sector2s.ldr
+0  0 -210 -436 150  0.50  0.87 0  -0.87  0.50 0  0 0 1  muonring-2sector2s.ldr
 
 0 STEP
 
