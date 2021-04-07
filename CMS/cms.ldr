@@ -126,24 +126,24 @@
 
 0 STEP
 
-0 0   80 -26  300  1  0  0  0  1  0  0  0  1 endcapfoot1.ldr
-0 0 -320 -26  300  1  0  0  0  1  0  0  0  1 endcapfoot2.ldr
+1 0   80 -26  300  1  0  0  0  1  0  0  0  1 endcapfoot1.ldr
+1 0 -320 -26  300  1  0  0  0  1  0  0  0  1 endcapfoot2.ldr
 
-0 0 -500 -26  540 -1  0  0  0  1  0  0  0 -1 endcapfoot1.ldr
-0 0 -100 -26  540 -1  0  0  0  1  0  0  0 -1 endcapfoot2.ldr
-
-0 STEP
-
-0 0 -210 -428 880  1  0  0  0  1  0  0  0  1 endcapring1.ldr
-0 0 -210 -428 -40 -1  0  0  0  1  0  0  0 -1 endcapring1.ldr
+1 0 -500 -26  540 -1  0  0  0  1  0  0  0 -1 endcapfoot1.ldr
+1 0 -100 -26  540 -1  0  0  0  1  0  0  0 -1 endcapfoot2.ldr
 
 0 STEP
 
-0 0 -210 -428 1000  1 0  0  0  1  0  0  0  1 endcapring2.ldr
-0 0 -210 -428 -160 -1 0  0  0  1  0  0  0 -1 endcapring2.ldr
+1 0 -210 -428 880  1  0  0  0  1  0  0  0  1 endcapring1.ldr
+1 0 -210 -428 -40 -1  0  0  0  1  0  0  0 -1 endcapring1.ldr
 
 0 STEP
 
-0 0 -670   -8 1140  1 0 0  0 1 0  0 0 1 hfcastor.ldr
+1 0 -210 -428 1000  1 0  0  0  1  0  0  0  1 endcapring2.ldr
+1 0 -210 -428 -160 -1 0  0  0  1  0  0  0 -1 endcapring2.ldr
+
+0 STEP
+
+1 0 -670   -8 1140  1 0 0  0 1 0  0 0 1 hfcastor.ldr
 
 0 STEP

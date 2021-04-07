@@ -1,4 +1,4 @@
-0 FILE hfkernel.ldr
+0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
 
 1 15       50      100       24     1     0     0     0     0    -1     0     1     0 3710.dat
 1 15        0       50       24     0     0     1     1     0     0     0     1     0 3710.dat
