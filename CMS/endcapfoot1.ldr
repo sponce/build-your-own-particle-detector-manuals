@@ -1,4 +1,6 @@
-0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
+0
+0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB MULTI_STEP PLI PLACEMENT GLOBAL TOP LEFT ASSEM OUTSIDE
 
 0 !LPUB MULTI_STEP BEGIN
 
@@ -11,7 +13,6 @@
 1  4  -100    -6   740 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
-0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
 
 1  4   -60   -30   700  1 -0  0  0  1  0  0  0  1 3001.dat
 1  4   -40   -30   550  1 -0  0  0  1  0  0  0  1 3039.dat
@@ -26,7 +27,8 @@
 1  4   -40   -30   730 -1 -0  0 -0  1  0  0  0 -1 3039.dat
 
 0 STEP
-0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+
+0 !LPUB MULTI_STEP DIVIDER
 
 1  4   -70   -54   700  1 -0  0  0  1  0  0  0  1 3002.dat
 1  4   -70   -54   580  1 -0  0  0  1  0  0  0  1 3002.dat
@@ -55,7 +57,8 @@
 1  4   -50   -30   730 -1 -0  0 -0  1  0  0  0 -1 50746.dat
 
 0 STEP
-0 ROTSTEP END
+
+0 !LPUB MULTI_STEP END
 
 1  4   -60   -78   700 -1 -0  0 -0  1  0  0  0 -1 3003.dat
 1  4   -60   -78   580 -1 -0  0 -0  1  0  0  0 -1 3003.dat
@@ -65,4 +68,4 @@
 1  4   -60   -86   640  1 -0  0  0  1  0  0  0  1 3068b.dat
 
 0 STEP
-0 !LPUB MULTI_STEP END
+0 ROTSTEP END

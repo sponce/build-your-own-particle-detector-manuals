@@ -1,4 +1,5 @@
-0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
+0
+0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
 
 0 !LPUB MULTI_STEP BEGIN
 
@@ -24,6 +25,8 @@
 1  4  -160   324     0  0 -0  1  0  1  0 -1  0  0 3747b.dat
 
 0 STEP
+0 !LPUB MULTI_STEP END
+0 !LPUB MULTI_STEP BEGIN
 
 1  4    80   300     0  0 -0 -1  0  1 -0  1  0  0 3004.dat
 1  4   170   300     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
@@ -31,10 +34,6 @@
 1  4  -170   300     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
-
-0 !LPUB MULTI_STEP END
-
-0 !LPUB MULTI_STEP BEGIN
 0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
 
 1  4   190   276     0 -1 -0  0 -0  1  0  0  0 -1 3001.dat
@@ -45,8 +44,9 @@
 1  4  -240   276     0  0 -0  1  0  1  0 -1  0  0 3660.dat
 
 0 STEP
-
-0 !LPUB PLI CONSTRAIN LOCAL WIDTH 2
+0 !LPUB MULTI_STEP END
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.0848
 
 1  4   190   252     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 1  4   -70   252     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
@@ -55,8 +55,8 @@
 1  4  -160   252     0 -1 -0  0 -0  1  0  0  0 -1 3002.dat
 
 0 STEP
-
-0 !LPUB MULTI_STEP END
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.0848
 
 1  4   -40   228   -10  1 -0  0  0  1  0  0  0  1 87087.dat
 1  4    40   228   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -75,6 +75,8 @@
 1  4  -260   228     0  0 -0  1  0  1  0 -1  0  0 3660.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.0848
 
 1  4    80   204   -10  1 -0  0  0  1  0  0  0  1 87087.dat
 1  4   -80   204   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -92,6 +94,7 @@
 1  4  -280   204     0  0 -0  1  0  1  0 -1  0  0 3660.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.10
 
 1  4  -120   180   -10  1 -0  0  0  1  0  0  0  1 87087.dat
 1  4   120   180   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -106,6 +109,8 @@
 1  4  -230   180     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
 
 1  4   300   156     0  0 -0 -1  0  1 -0  1  0  0 3660.dat
 1  4  -140   156   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -122,6 +127,7 @@
 1  4  -210   156     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
 
 1  4     0   132     0  0 -0 -1  0  1 -0  1  0  0 3004.dat
 1  4    90   132     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
@@ -130,6 +136,7 @@
 1  4  -250   132     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
 
 1  4   300   108     0  0 -0 -1  0  1 -0  1  0  0 3004.dat
 1  4   320   108     0  0 -0 -1  0  1 -0  1  0  0 3660.dat
@@ -146,6 +153,7 @@
 1  4  -230   108     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
 0 !LPUB ASSEM MODEL_SCALE  0.9
 
 1  4   320    84     0  0 -0 -1  0  1 -0  1  0  0 3004.dat
@@ -164,6 +172,8 @@
 1  4  -270    84     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
+0 !LPUB ASSEM MODEL_SCALE  0.8
 
 1  4   310    60     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 1  4   180    60   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -188,6 +198,8 @@
 1  4  -310    60     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
+0 !LPUB ASSEM MODEL_SCALE  0.7
 
 1  4   290    36     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 1  4   200    36   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -200,6 +212,8 @@
 1  4  -290    36     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
 
 1  4     0    28     0  0 -0 -1  0  1 -0  1  0  0 3069b.dat
 1  4   330    12     0 -1 -0  0 -0  1  0  0  0 -1 3001.dat
@@ -216,6 +230,8 @@
 1  4  -330    12     0 -1 -0  0 -0  1  0  0  0 -1 3001.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.12
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
 
 1  4   290   -12     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 1  4   200   -12   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -233,6 +249,8 @@
 1  4  -290   -12     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.13
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
 
 1  4   330   -36     0 -1 -0  0 -0  1  0  0  0 -1 3001.dat
 1  4   110   -36     0  1 -0  0  0  1  0  0  0  1 3003.dat
@@ -243,6 +261,7 @@
 1  4  -210   -36     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4    50   -44     0  1 -0  0  0  1  0  0  0  1 3956.dat
 1  4   -50   -44     0  1 -0  0  0  1  0  0  0  1 3956.dat
@@ -252,6 +271,8 @@
 1  4    50   -60     0 -1 -0  0 -0  1  0  0  0 -1 3022.dat
 
 0 STEP
+0 !LPUB ASSEM MODEL_SCALE  0.6
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0115 0.13
 
 1  4   290   -60     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 1  4   200   -60   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -274,6 +295,8 @@
 1  4  -290   -60     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   310   -84     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 1  4    60   -84    10 -1 -0  0 -0  1  0  0  0 -1 87087.dat
@@ -289,6 +312,8 @@
 1  4  -310   -84     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   340  -108     0  0 -0 -1  0  1 -0  1  0  0 3039.dat
 1  4   180  -108   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -306,6 +331,8 @@
 1  4  -270  -108     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   160  -132   -10  1 -0  0  0  1  0  0  0  1 87087.dat
 1  4   160  -132    10 -1 -0  0 -0  1  0  0  0 -1 87087.dat
@@ -321,6 +348,8 @@
 1  4  -200  -132     0 -1 -0  0 -0  1  0  0  0 -1 3002.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   320  -156     0  0 -0 -1  0  1 -0  1  0  0 3678b.dat
 1  4  -140  -156   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -335,6 +364,8 @@
 1  4  -320  -156     0  0 -0  1  0  1  0 -1  0  0 3678b.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   300  -180     0  0 -0 -1  0  1 -0  1  0  0 3039.dat
 1  4  -120  -180   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -348,6 +379,8 @@
 1  4  -300  -180     0  0 -0  1  0  1  0 -1  0  0 3039.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   -80  -204   -10  1 -0  0  0  1  0  0  0  1 87087.dat
 1  4    80  -204   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -361,6 +394,8 @@
 1  4  -210  -204     0 -1 -0  0 -0  1  0  0  0 -1 44237.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4     0  -228   -10  1 -0  0  0  1  0  0  0  1 87087.dat
 1  4   -40  -228   -10  1 -0  0  0  1  0  0  0  1 87087.dat
@@ -378,6 +413,8 @@
 1  4  -280  -228     0  0 -0  1  0  1  0 -1  0  0 3678b.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   -60  -252     0 -1 -0  0 -0  1  0  0  0 -1 3002.dat
 1  4    50  -252     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
@@ -387,7 +424,8 @@
 1  4  -260  -252     0  0 -0  1  0  1  0 -1  0  0 3039.dat
 
 0 STEP
-0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1.5
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4  -120  -276     0 -1 -0  0 -0  1  0  0  0 -1 3002.dat
 1  4   -10  -276     0 -1 -0  0 -0  1  0  0  0 -1 3007.dat
@@ -397,6 +435,8 @@
 1  4  -240  -276     0  0 -0  1  0  1  0 -1  0  0 3039.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   200  -300     0  0 -0 -1  0  1 -0  1  0  0 3298.dat
 1  4   160  -300     0 -1 -0  0 -0  1  0  0  0 -1 3002.dat
@@ -405,6 +445,8 @@
 1  4  -200  -300     0  0 -0  1  0  1  0 -1  0  0 3298.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   160  -324     0  0 -0 -1  0  1 -0  1  0  0 3298.dat
 1  4  -140  -324     0  0 -0 -1  0  1 -0  1  0  0 3004.dat
@@ -413,6 +455,8 @@
 1  4  -160  -324     0  0 -0  1  0  1  0 -1  0  0 3298.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4  -120  -348     0  0 -0  1  0  1  0 -1  0  0 3298.dat
 1  4   120  -348     0  0 -0 -1  0  1 -0  1  0  0 3298.dat
@@ -421,6 +465,8 @@
 1  4     0  -348     0 -1 -0  0 -0  1  0  0  0 -1 3002.dat
 
 0 STEP
+0 !LPUB PLI CONSTRAIN LOCAL WIDTH 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1 0
 
 1  4   -80  -372     0  0 -0  1  0  1  0 -1  0  0 3298.dat
 1  4    80  -372     0  0 -0 -1  0  1 -0  1  0  0 3298.dat

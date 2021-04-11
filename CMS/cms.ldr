@@ -1,8 +1,8 @@
-0 !LPUB PAGE SIZE GLOBAL 11 8.5
+0
+0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE  0.3
 
 1 0  0 0 0  1 0 0  0 1 0  0 0 1  base.ldr
-
-0 STEP
 
 1 0  -80  -32 100  1 0 0  0 1 0  0 0  1  yokefoot.ldr
 1 0  -80  -32 240  1 0 0  0 1 0  0 0  1  yokefoot.ldr

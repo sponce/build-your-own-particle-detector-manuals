@@ -1,9 +1,9 @@
-0 !LPUB PAGE SIZE GLOBAL 11.0000 8.5000
-
+0
+0 Name: endcapdeco5.ldr
+0 Author: LDraw model
+0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
 0 ROTSTEP 0 90 0 REL
-
 1 14     0   0   8  1  0  0  0  0  1  0 -1  0 3069b.dat
 1 71    10  50   0 -1  0  0  0  0 -1  0 -1  0 54383.dat
-
 0 STEP
 0 ROTSTEP END
