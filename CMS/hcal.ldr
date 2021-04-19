@@ -1,5 +1,14 @@
 0
 0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE 0.6
+
+0 MLCAD BTG hcalflat
+0 GHOST 1 0  0 0 0  1 0 0  0 1 0  0 0 1  hcalflat.ldr
+0 GROUP 1 hcalflat
+
+0 !LPUB REMOVE GROUP "hcalflat"
+
+0 !LPUB PART BEGIN IGN
 
 1  0  0 0 0  1 0 0  0  0.94 -0.34 0  0.34  0.94 hcalmodule1.ldr  
 1  0  0 0 0  1 0 0  0     1     0 0     0     1 hcalmodule21.ldr
@@ -30,8 +39,6 @@
 
 1  0 -30 100  -180  0 0 1  0 1 0  -1 0 0  ecalandtracker.ldr
 
-0 STEP
-
 1  0  -340  0  0  -1 0 0  0  0.94  0.34  0  0.34 -0.94 hcalmodule3.ldr  
 1  0  -340  0  0  -1 0 0  0     1     0  0     0    -1 hcalmodule41.ldr
 
@@ -60,4 +67,4 @@
 1  0  -340  0  0  -1 0 0  0  0.50  0.87  0  0.87 -0.50 hcalmodule3.ldr  
 1  0  -340  0  0  -1 0 0  0  0.77  0.64  0  0.64 -0.77 hcalmodule42.ldr
 
-0 STEP
+0 !LPUB PART END

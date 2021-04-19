@@ -1,79 +1,185 @@
+0
 0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE 1
+
+0 !LPUB PLI PLACEMENT LOCAL BOTTOM LEFT ASSEM OUTSIDE OFFSET -0.1 -0.34
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB PLI BEGIN SUB hcalmodule21.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0     0  0 -60 1 0 0  0 1 0  0 0 1  hcalmodule21.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule41.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0  -60 -1 0 0  0 1 0  0 0 -1  hcalmodule41.ldr
+0 !LPUB PLI END
 
 0 STEP
 
-1  0  0  0    0 1 0 0  0 1 0  0 0 1  hcalmodule121flat.ldr  
+0 !LPUB PLI PLACEMENT LOCAL BOTTOM LEFT ASSEM OUTSIDE OFFSET -0.1 -0.34
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0   0 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr
+0 !LPUB PLI END
 
 0 STEP
 
-1  0  -340  0 -120  -1 0 0  0 1 0  0 0 -1  hcalmodule341flat.ldr  
+0 !LPUB PLI PLACEMENT LOCAL BOTTOM LEFT ASSEM OUTSIDE OFFSET -0.1 -0.34
+0 !LPUB ASSEM MODEL_SCALE 0.9
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0  60 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
+
+0 STEP
+0 !LPUB ASSEM MODEL_SCALE LOCAL 0.6
+
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0120 0.1000
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 120 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+1  0  0  0 240 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+1  0  0  0 360 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+1  0  0  0 480 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+1  0  0  0 180 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+1  0  0  0 300 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+1  0  0  0 420 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
 
 0 STEP
 
-1  0  0  0 -120 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+0 !LPUB ASSEM MODEL_SCALE 0.5
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.1043 0.0792
+
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -120 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -180 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -240 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -300 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -360 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -420 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule1.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -480 1 0 0  0 1 0  0 0 1  hcalmodule1.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule22.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  0  0 -540 1 0 0  0 1 0  0 0 1  hcalmodule22.ldr
+0 !LPUB PLI END
 
 0 STEP
 
-1  0  -340  0 -240  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+0 !LPUB ASSEM MODEL_SCALE LOCAL 0.6
+0 !LPUB PLI PLACEMENT LOCAL BOTTOM RIGHT ASSEM OUTSIDE OFFSET 0.03 -0.34
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -120 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
 
 0 STEP
 
-1  0  0  0 -240 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+0 !LPUB PLI PLACEMENT LOCAL BOTTOM RIGHT ASSEM OUTSIDE OFFSET 0.03 -0.34
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -180 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
 
 0 STEP
 
-1  0  -340  0 -360  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
+0 !LPUB ASSEM MODEL_SCALE 0.45
+0 !LPUB PLI CONSTRAIN LOCAL HEIGHT 1
+0 !LPUB ASSEM PLACEMENT LOCAL CENTER PAGE INSIDE OFFSET 0.0432 0.1255
 
-0 STEP
-
-1  0  0  0 -360 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
-
-0 STEP
-
-1  0  -340  0 -480  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
-
-0 STEP
-
-1  0  0  0 -480 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
-
-0 STEP
-
-1  0  -340  0 -600  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
-
-0 STEP
-
-1  0  -340  0  0  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
-
-0 STEP
-
-1  0  0  0 120 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
-
-0 STEP
-
-1  0  -340  0 120  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
-
-0 STEP
-
-1  0  0  0 240 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
-
-0 STEP
-
-1  0  -340  0 240  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
-
-0 STEP
-
-1  0  0  0 360 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
-
-0 STEP
-
-1  0  -340  0 360  -1 0 0  0 1 0  0 0 -1  hcalmodule342flat.ldr  
-
-0 STEP
-
-1  0  0  0 480 1 0 0  0 1 0  0 0 1  hcalmodule122flat.ldr  
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -240 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -360 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -300 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -480 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -420 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -600 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 -540 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0   0 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0  60 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 120 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 180 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 240 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 300 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule3.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 360 -1 0 0  0 1 0  0 0 -1  hcalmodule3.ldr  
+0 !LPUB PLI END
+0 !LPUB PLI BEGIN SUB hcalmodule42.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0  -340  0 420 -1 0 0  0 1 0  0 0 -1  hcalmodule42.ldr
+0 !LPUB PLI END
 
 0 STEP
 
 1  0  -30 96 -230  0 0 1  0 1 0  -1 0 0  ecalandtracker.ldr
-
-0 STEP

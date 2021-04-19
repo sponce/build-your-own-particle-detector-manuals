@@ -1,6 +1,6 @@
 0
-0 Name: endcapdeco3.ldr
-0 Author: LDraw model
 0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE 1
+
 1 71   0  8   0     1  0     0     0  1     0  0  0  1 41769.dat
 1 14   0  0  30    -1  0     0     0  1     0  0  0 -1 3069b.dat

@@ -1,38 +1,49 @@
 0
 0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE 1
 
 0 !LPUB MULTI_STEP PLI PLACEMENT LOCAL TOP LEFT ASSEM OUTSIDE
 0 !LPUB MULTI_STEP BEGIN
 
 0 ROTSTEP 45 120 180 ABS
 
-1  0     0    -8     0  1  0  0  0  1  0  0  0  1 muonring1sectorbase.ldr
+0 !LPUB PLI BEGIN SUB muonring1sectorbase.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0     0     0     0  1  0  0  0  1  0  0  0  1 muonring1sectorbase.ldr
+0 !LPUB PLI END
 
-1  2    50     0   -60  1  0  0  0  1  0  0  0  1 3710.dat
-1  2   -50     0   -60  1  0  0  0  1  0  0  0  1 3710.dat
-1  2    80     0    10  0  0  1  0  1  0 -1  0  0 3666.dat
-1  2     0     0   -60  1  0  0  0  1  0  0  0  1 3024.dat
+0 STEP
+0 !LPUB MULTI_STEP DIVIDER
+
+1  2    50     8   -60  1  0  0  0  1  0  0  0  1 3710.dat
+1  2   -50     8   -60  1  0  0  0  1  0  0  0  1 3710.dat
+1  2    80     8    10  0  0  1  0  1  0 -1  0  0 3666.dat
+1  2     0     8   -60  1  0  0  0  1  0  0  0  1 3024.dat
 
 0 STEP
 
-0 !LPUB MULTI_STEP DIVIDER
+0 !LPUB MULTI_STEP END
+0 !LPUB MULTI_STEP BEGIN
 0 ROTSTEP END
+0 !LPUB MULTI_STEP PLI PLACEMENT LOCAL TOP LEFT ASSEM OUTSIDE
 0 ROTSTEP 0 90 0 REL
 
-1 71     0  -120    60 -1  0  0  0  1  0  0  0 -1 44728.dat
-1 71    50  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
-1 71   -50  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
-1 71    30  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
-1 71    10  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
-1 71   -10  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
-1 71   -30  -120   -10  0  0 -1  0  1  0  1  0  0 6636.dat
-1 71    40  -120    60  1  0  0  0  1  0  0  0  1 3069b.dat
-1 71   -40  -120    60  1  0  0  0  1  0  0  0  1 3069b.dat
+1 71     0  -112    60 -1  0  0  0  1  0  0  0 -1 44728.dat
+1 71    50  -112   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71   -50  -112   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71    30  -112   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71    10  -112   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71   -10  -112   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71   -30  -112   -10  0  0 -1  0  1  0  1  0  0 6636.dat
+1 71    40  -112    60  1  0  0  0  1  0  0  0  1 3069b.dat
+1 71   -40  -112    60  1  0  0  0  1  0  0  0  1 3069b.dat
 
 0 STEP
+0 !LPUB MULTI_STEP DIVIDER
+0 !LPUB MULTI_STEP PLI PLACEMENT LOCAL TOP LEFT ASSEM OUTSIDE
 
-1 71    11   -60    82  0  0 -1  1  0  0  0 -1  0 6636.dat
-1 71    -9   -60    82  0  0 -1  1  0  0  0 -1  0 6636.dat
+1 71    11   -52    82  0  0 -1  1  0  0  0 -1  0 6636.dat
+1 71    -9   -52    82  0  0 -1  1  0  0  0 -1  0 6636.dat
 
 0 STEP
 

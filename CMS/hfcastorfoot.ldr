@@ -1,5 +1,6 @@
 0
 0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE 1
 
 1  0   560     0   -40  0  0 -1  0  1  0  1  0  0 3069b.dat
 1  0   360     0    40  0  0  1  0  1  0 -1  0  0 3069b.dat

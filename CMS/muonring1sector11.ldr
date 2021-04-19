@@ -1,28 +1,35 @@
 0
 0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB ASSEM MODEL_SCALE 1
 
 0 !LPUB MULTI_STEP PLI PLACEMENT GLOBAL TOP LEFT ASSEM OUTSIDE
 0 !LPUB MULTI_STEP BEGIN
 
-1  0     0    -8     0  1  0  0  0  1  0  0  0  1 muonring1sectorbase.ldr
+0 !LPUB PLI BEGIN SUB muonring0sectorbase.ldr 0
+0 !LPUB PLI MODEL_SCALE LOCAL 0.6
+1  0     0     0     0  1  0  0  0  1  0  0  0  1 muonring1sectorbase.ldr
+0 !LPUB PLI END
 
-1 71     0  -120    60 -1  0  0  0  1  0  0  0 -1 6636.dat
-1 71     0  -120    40 -1  0  0  0  1  0  0  0 -1 6636.dat
-1 71     0  -120    20 -1  0  0  0  1  0  0  0 -1 6636.dat
-1 71     0  -120     0 -1  0  0  0  1  0  0  0 -1 6636.dat
-1 71     0  -120   -20 -1  0  0  0  1  0  0  0 -1 6636.dat
-1 71     0  -120   -40 -1  0  0  0  1  0  0  0 -1 6636.dat
-1 71     0  -120   -60 -1  0  0  0  1  0  0  0 -1 6636.dat
+0 STEP
+0 !LPUB MULTI_STEP DIVIDER
+0 !LPUB MULTI_STEP PLI PLACEMENT GLOBAL LEFT TOP ASSEM OUTSIDE
+
+1 71     0  -112    60 -1  0  0  0  1  0  0  0 -1 6636.dat
+1 71     0  -112    40 -1  0  0  0  1  0  0  0 -1 6636.dat
+1 71     0  -112    20 -1  0  0  0  1  0  0  0 -1 6636.dat
+1 71     0  -112     0 -1  0  0  0  1  0  0  0 -1 6636.dat
+1 71     0  -112   -20 -1  0  0  0  1  0  0  0 -1 6636.dat
+1 71     0  -112   -40 -1  0  0  0  1  0  0  0 -1 6636.dat
+1 71     0  -112   -60 -1  0  0  0  1  0  0  0 -1 6636.dat
 
 0 STEP
 
-0 !LPUB MULTI_STEP DIVIDER
 0 ROTSTEP 45 120 180 ABS
 
-1  2    50     0    60  1  0  0  0  1  0  0  0  1 3710.dat
-1  2   -50     0    60  1  0  0  0  1  0  0  0  1 3710.dat
-1  2   -80     0   -10  0  0  1  0  1  0 -1  0  0 3666.dat
-1  2     0     0    60  1  0  0  0  1  0  0  0  1 3024.dat
+1  2    50     8    60  1  0  0  0  1  0  0  0  1 3710.dat
+1  2   -50     8    60  1  0  0  0  1  0  0  0  1 3710.dat
+1  2   -80     8   -10  0  0  1  0  1  0 -1  0  0 3666.dat
+1  2     0     8    60  1  0  0  0  1  0  0  0  1 3024.dat
 
 0 STEP
 
