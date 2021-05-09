@@ -1,12 +1,12 @@
 0
-0 !LPUB PAGE SIZE GLOBAL 11.75 8.25
+0 !LPUB PAGE SIZE GLOBAL 11 8.5
 
 0 ROTSTEP 0 90 0 REL
 0 !LPUB ASSEM MODEL_SCALE  0.5
 
 1  0   0   0   0  1  0  0  0  1  0  0  0  1 endcapring1core.ldr
 
-0 !LPUB PLI VIEW_ANGLE 23 135
+0 !LPUB PLI VIEW_ANGLE LOCAL 23 135
 0 !LPUB PLI BEGIN SUB endcapdeco1.ldr 0
 1  0     0  238   28     -1     0  0      0    -1  0   0   0   1  endcapdeco1.ldr
 0 !LPUB PLI END
@@ -108,7 +108,7 @@
 
 0 ROTSTEP END
 
-0 !LPUB PLI VIEW_ANGLE 23 45
+0 !LPUB PLI VIEW_ANGLE LOCAL 23 45
 0 !LPUB PLI BEGIN SUB endcapdeco2.ldr 0
 1  0    0  238  -36     -1     0  0      0  -1    0   0   0   1  endcapdeco2.ldr
 0 !LPUB PLI END
