@@ -1,0 +1,21 @@
+\documentclass[a4paper,landscape]{book}
+
+\usepackage{pdfpages}
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+
+\begin{document}
+
+\afterpage{\blankpage}
+\includepdf{cover.pdf}
+
+\includepdf[pages=-,offset=-.48in 0]{../cms.pdf}
+\afterpage{\blankpage}
+\afterpage{\blankpage}
+
+\end{document}
